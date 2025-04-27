@@ -1,11 +1,12 @@
-text,answer
-I ____ to school every day.,go
-She ____ a beautiful song.,sings
-They ____ soccer after school.,play
-He ____ a new bike.,has
-We ____ English every Monday.,study
-My father ____ very early.,gets up
-The dog ____ at strangers.,barks
-I ____ lunch at noon.,eat
-She ____ very hard every day.,works
-They ____ the homework together.,do
+sentence,japanese,answer
+I ____ to school every day.,私は毎日学校に行きます,go
+She ____ a beautiful song.,彼女は美しい歌を歌います,sings
+They ____ soccer after school.,彼らは放課後にサッカーをやります,play
+He ____ a new bike.,彼は新しいバイクを持っています,has
+We ____ English every Monday.,私たちは毎週月曜日に英語を勉強します,study
+My father ____ very early.,私の父はとても早く起きます,gets up
+The dog ____ at strangers.,その犬は強く吠える？,barks
+I ____ lunch at noon.,私は正午にランチを食べる,eat
+She ____ very hard every day.,彼女とてもハードに毎日働く,works
+They ____ the homework together.,彼らは一緒に宿題をする,do
+They ____ the homework together.2,彼らは一緒に宿題をする,do
