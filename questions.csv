@@ -1,41 +1,41 @@
-sentence,japanese,answer
-seriously ____the environment,環境に深刻な被害を与える,damage
-do ____ to  the  village,その村に被害を与える,damage
-claim ____,損害賠償を請求する,damages
-____ all weapons,すべての武器を破壊する,destroy
-This horse has to ____ ____.,この馬を殺処分するしかない。,be destroyed
-You ____ my plan.,君のせいで計画が台無しだよ,ruined
-The flood ____ the town.,洪水が町を破壊してしまった。,ruined
-the ____ of Pompeii,ボンペイの遺跡,ruins
-Tigers are ____ ____ ____ extinction.,トラが絶滅の危機にある。,in danger of
-chat with a ____,近所の人と話す,neighbor
-My next-door ____ dog barks day and night.,隣の人の犬が昼夜問わず吠える。,neighbor's
-draw a large____,大観衆を集める,audience
-A ____ rushed into the hall.,群衆が会場になだれ込んだ。,crowd
-____ ____ ____ War and Peace,『戦争と平和』の著者,the author of
-The ____ was signing copies of his new book.,その作家は彼の新刊本にサインをしていた。,author
-Most of the ____ is from Australia.,職員の大半はオーストラリア出身です。,staff
-the ____ at that department store,あのデパートの店員,clerks
-a bank ____,銀行員,clerk
-The restaurant was crowded with ____ from abroad.,そのレストランは外国人客で混雑していた。,customers
-There were a lot of ____ on the train.,列車には多くの乗客が乗っていた。,passengers
-give up my seat to ____ ____,お年寄りに席を譲る,elderly people
-priority seats for ____ ____,お年寄りのための優先席,the elderly
-____ workers,女性の労働者,female
-a ____ cat,雌のネコ,female
-the ____ of the species,その種の雌,female
-____ ____ the beach,海辺に向かう,head for
-an investigative team ____ ____ Mr. Nakahara,中原氏が率いる調査団,headed by
-Someone was ____ me.,誰かが私をつけていた。,following
-____ his advice,彼の忠告に従う,follow
-____ ____ the town,街をぶらぶら歩き回る,wander about
-____ ____the world,世界中を旅する,travel around
-Light ____ faster than sound.,光は音より速く進む。,travels
-____ the post office,郵便局の前を通り過ぎる,pass
-____ five runners on the final lap,最後の一周で５人の走者を抜く,pass
-____ the bar exam,司法試験に受かる,pass
-"____ me the salt, please.",塩を取ってください,Pass
-____ ____ ____,時の経過と共に,as time passes
-an annual ____ for the theme park,そのテーマパークの年間パス,pass
-Things ____ ____ ____ improve.,事態はよくなりそうだ。,are likely to
-He will very ____ stay home.,おそらく、彼は家にいるだろう。,likely
+id,sentence,japanese,answer
+101,seriously ____the environment,環境に深刻な被害を与える,damage
+101,do ____ to  the  village,その村に被害を与える,damage
+101,claim ____,損害賠償を請求する,damages
+102,____ all weapons,すべての武器を破壊する,destroy
+102,This horse has to ____ ____.,この馬を殺処分するしかない。,be destroyed
+103,You ____ my plan.,君のせいで計画が台無しだよ,ruined
+103,The flood ____ the town.,洪水が町を破壊してしまった。,ruined
+103,the ____ of Pompeii,ボンペイの遺跡,ruins
+104,Tigers are ____ ____ ____ extinction.,トラが絶滅の危機にある。,in danger of
+105,chat with a ____,近所の人と話す,neighbor
+105,My next-door ____ dog barks day and night.,隣の人の犬が昼夜問わず吠える。,neighbor's
+106,draw a large____,大観衆を集める,audience
+107,A ____ rushed into the hall.,群衆が会場になだれ込んだ。,crowd
+108,____ ____ ____ War and Peace,『戦争と平和』の著者,the author of
+108,The ____ was signing copies of his new book.,その作家は彼の新刊本にサインをしていた。,author
+109,Most of the ____ is from Australia.,職員の大半はオーストラリア出身です。,staff
+110,the ____ at that department store,あのデパートの店員,clerks
+110,a bank ____,銀行員,clerk
+111,The restaurant was crowded with ____ from abroad.,そのレストランは外国人客で混雑していた。,customers
+112,There were a lot of ____ on the train.,列車には多くの乗客が乗っていた。,passengers
+113,give up my seat to ____ ____,お年寄りに席を譲る,elderly people
+113,priority seats for ____ ____,お年寄りのための優先席,the elderly
+114,____ workers,女性の労働者,female
+114,a ____ cat,雌のネコ,female
+114,the ____ of the species,その種の雌,female
+115,____ ____ the beach,海辺に向かう,head for
+115,an investigative team ____ ____ Mr. Nakahara,中原氏が率いる調査団,headed by
+116,Someone was ____ me.,誰かが私をつけていた。,following
+116,____ his advice,彼の忠告に従う,follow
+117,____ ____ the town,街をぶらぶら歩き回る,wander about
+118,____ ____the world,世界中を旅する,travel around
+118,Light ____ faster than sound.,光は音より速く進む。,travels
+119,____ the post office,郵便局の前を通り過ぎる,pass
+119,____ five runners on the final lap,最後の一周で５人の走者を抜く,pass
+119,____ the bar exam,司法試験に受かる,pass
+119,"____ me the salt, please.",塩を取ってください,Pass
+119,____ ____ ____,時の経過と共に,as time passes
+119,an annual ____ for the theme park,そのテーマパークの年間パス,pass
+120,Things ____ ____ ____ improve.,事態はよくなりそうだ。,are likely to
+120,He will very ____ stay home.,おそらく、彼は家にいるだろう。,likely
