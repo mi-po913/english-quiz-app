@@ -12,23 +12,33 @@ def detect_encoding(file_path):
 # ✅ CSV を適切なエンコーディングで読み込む
 file_path = "questions.csv"
 encoding_type = detect_encoding(file_path)  # エンコーディングを検出
-df = pd.read_csv(file_path, encoding=encoding_type)  # 検出したエンコーディングで読み込み
+df = pd.read_csv(file_path, encoding=encoding_type)  # 検出したエンコーディングを適用
+
+# ✅ CSVデータのチェック（デバッグ用）
+print(f"Detected encoding: {encoding_type}")  # 検出されたエンコーディングを確認
+print(df.head())  # CSVの最初の数行を表示
 
 # ✅ ユーザーがIDの範囲を選択できるようにする
 st.title("🌟 英単語 穴埋めクイズ")
 
+# CSVのIDの最小値・最大値を取得
 start_id = st.number_input("開始IDを入力:", min_value=int(df["id"].min()), max_value=int(df["id"].max()), value=int(df["id"].min()))
 end_id = st.number_input("終了IDを入力:", min_value=int(df["id"].min()), max_value=int(df["id"].max()), value=int(df["id"].max()))
 
 if st.button("クイズを開始！"):
     # ✅ セッションステートの初期化
-    st.session_state.questions = df[(df["id"] >= start_id) & (df["id"] <= end_id)].sample(frac=1, random_state=random.randint(0, 1000)).reset_index(drop=True)
-    st.session_state.current_question = 0
-    st.session_state.score = 0
-    st.session_state.answered = False
-    st.session_state.user_answer = ""
-    st.session_state.incorrect_questions = []
-    st.rerun()
+    selected_questions = df[(df["id"] >= start_id) & (df["id"] <= end_id)].sample(frac=1, random_state=random.randint(0, 1000)).reset_index(drop=True)
+
+    if selected_questions.empty:
+        st.warning("選択した範囲の問題がありません！IDを確認してください。")
+    else:
+        st.session_state.questions = selected_questions
+        st.session_state.current_question = 0
+        st.session_state.score = 0
+        st.session_state.answered = False
+        st.session_state.user_answer = ""
+        st.session_state.incorrect_questions = []
+        st.rerun()
 
 # ✅ クイズが開始されている場合のみ問題を表示
 if "questions" in st.session_state and len(st.session_state.questions) > 0:
