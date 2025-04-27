@@ -1,73 +1,83 @@
 import streamlit as st
 import pandas as pd
 import random
+import chardet
 
-# セッションステートの初期化
-if "questions" not in st.session_state:
-    df = pd.read_csv("questions.csv", encoding="shift_jis")
-    st.session_state.questions = df.sample(frac=1, random_state=random.randint(0, 1000)).reset_index(drop=True)
+# ✅ CSVファイルのエンコーディングを自動検出
+def detect_encoding(file_path):
+    with open(file_path, "rb") as f:
+        result = chardet.detect(f.read())
+    return result["encoding"]
 
-if "current_question" not in st.session_state:
-    st.session_state.current_question = 0
-if "score" not in st.session_state:
-    st.session_state.score = 0
-if "answered" not in st.session_state:
-    st.session_state.answered = False
-if "user_answer" not in st.session_state:
-    st.session_state.user_answer = ""
-if "incorrect_questions" not in st.session_state:  # ❗間違えた問題を記録するリスト
-    st.session_state.incorrect_questions = []
+# ✅ CSV を適切なエンコーディングで読み込む
+file_path = "questions.csv"
+encoding_type = detect_encoding(file_path)  # エンコーディングを検出
+df = pd.read_csv(file_path, encoding=encoding_type)  # 検出したエンコーディングで読み込み
 
+# ✅ ユーザーがIDの範囲を選択できるようにする
 st.title("🌟 英単語 穴埋めクイズ")
 
-# 現在の問題を取得
-if st.session_state.current_question < len(st.session_state.questions):
-    row = st.session_state.questions.iloc[st.session_state.current_question]
-    
-    st.subheader(f"Q{st.session_state.current_question + 1}")
-    st.write(f"**日本語訳**: {row['japanese']}")
-    st.write(f"**英文**: {row['sentence']}")
+start_id = st.number_input("開始IDを入力:", min_value=int(df["id"].min()), max_value=int(df["id"].max()), value=int(df["id"].min()))
+end_id = st.number_input("終了IDを入力:", min_value=int(df["id"].min()), max_value=int(df["id"].max()), value=int(df["id"].max()))
 
-    user_input = st.text_input("英単語を入力してね:", value="", key=f"input_{st.session_state.current_question}")
+if st.button("クイズを開始！"):
+    # ✅ セッションステートの初期化
+    st.session_state.questions = df[(df["id"] >= start_id) & (df["id"] <= end_id)].sample(frac=1, random_state=random.randint(0, 1000)).reset_index(drop=True)
+    st.session_state.current_question = 0
+    st.session_state.score = 0
+    st.session_state.answered = False
+    st.session_state.user_answer = ""
+    st.session_state.incorrect_questions = []
+    st.rerun()
 
-    if not st.session_state.answered:
-        if st.button("答える"):
-            st.session_state.user_answer = user_input
-            if user_input.strip().lower() == row['answer'].strip().lower():
-                st.success("正解！🎉")
-                st.session_state.score += 1
-            else:
-                st.error(f"不正解😢 正解は「{row['answer']}」だよ。")
-                st.session_state.incorrect_questions.append(row)  # ❗間違えた問題を記録
-            st.session_state.answered = True
-    
-    if st.session_state.answered:
-        if st.button("次の問題へ"):
-            st.session_state.current_question += 1
-            st.session_state.answered = False
-            st.session_state.user_answer = ""
-            st.rerun()
+# ✅ クイズが開始されている場合のみ問題を表示
+if "questions" in st.session_state and len(st.session_state.questions) > 0:
+    if st.session_state.current_question < len(st.session_state.questions):
+        row = st.session_state.questions.iloc[st.session_state.current_question]
 
-else:
-    st.success(f"クイズ終了！あなたの得点は {st.session_state.score} / {len(st.session_state.questions)} 点です！")
+        st.subheader(f"Q{st.session_state.current_question + 1}（No.{row['id']}）")
+        st.write(f"**日本語訳**: {row['japanese']}")
+        st.write(f"**英文**: {row['sentence']}")
 
-    if len(st.session_state.incorrect_questions) > 0:
-        if st.button("間違えた問題だけもう一度やる！"):
-            st.session_state.questions = pd.DataFrame(st.session_state.incorrect_questions)  # ❗間違えた問題のみ再挑戦
+        user_input = st.text_input("英単語を入力してね:", value="", key=f"input_{st.session_state.current_question}")
+
+        if not st.session_state.answered:
+            if st.button("答える"):
+                st.session_state.user_answer = user_input
+                if user_input.strip().lower() == row['answer'].strip().lower():
+                    st.success("正解！🎉")
+                    st.session_state.score += 1
+                else:
+                    st.error(f"不正解😢 正解は「{row['answer']}」だよ。")
+                    st.session_state.incorrect_questions.append(row)
+                st.session_state.answered = True
+        
+        if st.session_state.answered:
+            if st.button("次の問題へ"):
+                st.session_state.current_question += 1
+                st.session_state.answered = False
+                st.session_state.user_answer = ""
+                st.rerun()
+    else:
+        st.success(f"クイズ終了！あなたの得点は {st.session_state.score} / {len(st.session_state.questions)} 点です！")
+
+        if len(st.session_state.incorrect_questions) > 0:
+            if st.button("間違えた問題だけもう一度やる！"):
+                st.session_state.questions = pd.DataFrame(st.session_state.incorrect_questions)
+                st.session_state.current_question = 0
+                st.session_state.score = 0
+                st.session_state.answered = False
+                st.session_state.user_answer = ""
+                st.session_state.incorrect_questions = []
+                st.rerun()
+        else:
+            st.write("全問正解！再挑戦する問題はありません。🎉")
+
+        if st.button("最初からやる！"):
+            del st.session_state.questions
             st.session_state.current_question = 0
             st.session_state.score = 0
             st.session_state.answered = False
             st.session_state.user_answer = ""
-            st.session_state.incorrect_questions = []  # 記録をリセット
+            st.session_state.incorrect_questions = []
             st.rerun()
-    else:
-        st.write("全問正解！再挑戦する問題はありません。🎉")
-
-    if st.button("最初からやる！"):
-        st.session_state.current_question = 0
-        st.session_state.score = 0
-        st.session_state.answered = False
-        st.session_state.user_answer = ""
-        del st.session_state.questions  # ゲーム再スタート時に再シャッフル
-        st.session_state.incorrect_questions = []  # 記録をリセット
-        st.rerun()
