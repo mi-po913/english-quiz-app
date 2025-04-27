@@ -2,8 +2,12 @@ import streamlit as st
 import pandas as pd
 import random
 
-# ✅ CSVファイルを読み込む（Shift-JISで固定）
-df = pd.read_csv("questions.csv", encoding="shift_jis")
+# ✅ CSVファイルを読み込む（Shift-JIS固定）
+try:
+    df = pd.read_csv("questions.csv", encoding="shift_jis")
+except UnicodeDecodeError:
+    # 万が一Shift-JISで読めなかったら、UTF-8にチャレンジ
+    df = pd.read_csv("questions.csv", encoding="utf-8")
 
 # ✅ アプリタイトル
 st.title("🌟 英単語 穴埋めクイズ")
