@@ -41,7 +41,7 @@ id,sentence,japanese,answer
 120,He will very ____ stay home.,おそらく、彼は家にいるだろう。,likely
 121,It is only ____ that you cannot catch words you do not know.,知らない単語を聞き取れないのはごく当然のことだ.,natural
 121,____ beauty,自然美,natural
-121,iher ____ talent,彼女の生まれつきの才能,natural
+121,her ____ talent,彼女の生まれつきの才能,natural
 122,He ____ ____ ____ become a star player.,彼はきっとスター選手になるよ.,is certain to
 122,be sent to a ____ country,ある国に派遣される,certain
 123,The repairs will ____ take a month.,修理はおそらく1か月はかかるだろう,probably
@@ -143,3 +143,43 @@ id,sentence,japanese,answer
 161,This novel ____ ____ ____ facts.,この小説は事実に基づいている。,is based on
 161,"I work in many places, but my ____ is here.",多くの場所で働いているが、私の基盤はここだ,base
 161,a secret ____,秘密基地,base
+162,The price ____ postage.(Postage ____ ____ in the price.),価格には送料が含まれています(送料を含む).,includes is included
+163,This soup ____ various herbs.,このスープにはさまざまな薬草が入っている (さまざまな薬草を含んでいる).,contains
+163,I cannot ____ my anger.,怒りを抑えられない.,contain
+164,with my ____ eyes,私自身の目で,own
+164,I decided to quit the company and start my ____.,会社を辞め、 自分の会社を始めることに決めた。,own
+164,____ ten companies in India,インドに 10の会社を所有している,own
+165,____ a table ____ a stranger,知らない人と相席(席を共有) する,share with
+165,Could you ____ your opinion about this?,これについてのあなたのご意見をお聞かせください.,share
+165,a flat ____,アパートの共有,share
+165,a ____ of the profits,利益の分け前,share
+166,____ teddy bears,クマのぬいぐるみを集める,collect
+166,____ ____ ____ for recycling,リサイクルのために空き缶を回収する,collect empty cans
+167,____ information,情報を集める,gather
+167,____ around the teacher,先生のまわりに集まる,gather
+168,the best soccer player ____ ____,史上最高のサッカー選手,in history
+168,an update ____,更新履歴,history
+169,a required ____,必須科目,subject
+169,get off the ____,話題からそれる,subject
+169,the ____ of the experiment,その実験の被験者,subject
+169,The program ____ ____ ____ change.,プログラムは変更の可能性がありま(変更を受けやすい).,is subject to
+170,____ a ____ ____,よい教育を受ける,receive good education
+171,have ____ ____ ____ ____ ____ of cinema,映画に関する幅広い知識を持っている,a wide range of knowledge
+172,wear a ____ ____,学校の制服を着ている,school uniform
+172,maintain a ____ temperature,一定の温度を保つ,uniform
+173,She is ____ ____ ____ ____.,彼女は8年生(中学2年生)だ.,in the eighth grade
+173,low-____ products,低級の製品,grade
+173,a high ____ in math,数学での好成績,grade
+174,a college ____,大学4年生,senior
+174,____ ____,高齢者,senior citizens
+174,a ____ manager,上級管理者,senior
+175,____ from high school,高校を卒業する,graduate
+176,____ to live on my own,一人で暮らすことを決心する,decide
+176,____ on a date for the wedding,結婚式の日取りを決める,decide
+177,____ someone by their appearance,人を外見で判断する,judge
+177,a Supreme Court ____ （◇the lay judge system）,最高裁判所の裁判官 （◇(日本の)裁判員制度）,judge
+178,____ my job,仕事をやめる,quit
+179,____ from the company,会社を(定年で)退職する,retire
+180,a ____ of the tax system,税制の見直し,review
+180,a ____ of his new book,彼の新刊本の書評,review
+180,do a ____ of the last lesson,前の課を復習する,review
