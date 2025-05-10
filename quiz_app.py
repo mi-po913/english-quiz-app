@@ -54,7 +54,7 @@ if "questions" in st.session_state and len(st.session_state.questions) > 0:
         if not st.session_state.answered:
             if st.button("答える"):
                 st.session_state.user_answer = user_input
-                if user_input.strip().lower() == row['answer'].strip().lower():
+                if user_input.strip().lower() == row['answer'].strip():
                     st.success("正解！🎉")
                     st.session_state.score += 1
                 else:
