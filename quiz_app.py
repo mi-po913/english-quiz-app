@@ -14,6 +14,11 @@ file_path = "questions.csv"
 encoding_type = detect_encoding(file_path)  # エンコーディングを検出
 df = pd.read_csv(file_path, encoding=encoding_type)  # 検出したエンコーディングを適用
 
+# ✅ ID列の型変換（エラー防止）
+df["id"] = pd.to_numeric(df["id"], errors='coerce')  # 数値型に変換
+df = df.dropna(subset=["id"])  # NaNを削除
+df["id"] = df["id"].astype(int)  # int型に変換
+
 # ✅ CSVデータのチェック（デバッグ用）
 print(f"Detected encoding: {encoding_type}")  # 検出されたエンコーディングを確認
 print(df.head())  # CSVの最初の数行を表示
@@ -22,8 +27,8 @@ print(df.head())  # CSVの最初の数行を表示
 st.title("🌟 英単語 穴埋めクイズ")
 
 # CSVのIDの最小値・最大値を取得
-start_id = st.number_input("開始IDを入力:", min_value=int(df["id"].min()), max_value=int(df["id"].max()), value=int(df["id"].min()))
-end_id = st.number_input("終了IDを入力:", min_value=int(df["id"].min()), max_value=int(df["id"].max()), value=int(df["id"].max()))
+start_id = st.number_input("開始IDを入力:", min_value=df["id"].min(), max_value=df["id"].max(), value=df["id"].min())
+end_id = st.number_input("終了IDを入力:", min_value=df["id"].min(), max_value=df["id"].max(), value=df["id"].max())
 
 if st.button("クイズを開始！"):
     # ✅ セッションステートの初期化
@@ -54,7 +59,7 @@ if "questions" in st.session_state and len(st.session_state.questions) > 0:
         if not st.session_state.answered:
             if st.button("答える"):
                 st.session_state.user_answer = user_input
-                if user_input.strip().lower() == row['answer'].strip().lower():
+                if user_input.strip().lower() == str(row['answer']).strip().lower():
                     st.success("正解！🎉")
                     st.session_state.score += 1
                 else:
