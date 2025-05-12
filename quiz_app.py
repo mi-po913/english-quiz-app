@@ -59,14 +59,21 @@ if "questions" in st.session_state and len(st.session_state.questions) > 0:
         if not st.session_state.answered:
             if st.button("答える"):
                 st.session_state.user_answer = user_input
-                if user_input.strip().lower() == str(row['answer']).strip().lower():
+                correct_answer = str(row['answer']).strip()
+                user_answer = user_input.strip()
+
+                if user_answer == correct_answer:
                     st.success("正解！🎉")
                     st.session_state.score += 1
-                else:
-                    st.error(f"不正解😢 正解は「{row['answer']}」だよ。")
+                elif user_answer.lower() == correct_answer.lower():
+                    st.warning(f"惜しい！大文字・小文字が違うよ。正解は「{correct_answer}」だよ。")
                     st.session_state.incorrect_questions.append(row)
+                else:
+                    st.error(f"不正解😢 正解は「{correct_answer}」だよ。")
+                    st.session_state.incorrect_questions.append(row)
+
                 st.session_state.answered = True
-        
+
         if st.session_state.answered:
             if st.button("次の問題へ"):
                 st.session_state.current_question += 1
