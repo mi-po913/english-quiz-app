@@ -515,7 +515,7 @@ id,sentence,japanese,answer
 240,Kyoto is ____ ____ ____ temples.,京都は寺で有名だ.,famous for its
 240,Arima is ____ ____ a hot-spring resort.,有馬は温泉地として有名だ.,famous as
 241,when I was ____ ____ ____(*冠詞不要.),小学生(小学校に在学中)のとき,in elementary school 
-242,a  cause of global warming,地球温暖化の主な原因,major
+242,a ____ cause of global warming,地球温暖化の主な原因,major
 242,____ ____ botany,植物学を専攻する,major in
 242,What is your ____?,専攻は何ですか.,major
 243, It ____ ____ ____ ____ he succeeds[×will succeed] or not.,彼が成功するかどうかは重要ではない,does not matter whether
@@ -527,12 +527,12 @@ id,sentence,japanese,answer
 245,a ____ idea,すばらしい考え,brilliant
 246,have a ____ ____,生き生きとした会話をする,lively conversation
 247,a ____ bed,快適なべッド,comfortable
-247,I feel ____ in that caf?.,あのカフェは居心地がよい.,comfortable
+247,I feel ____ in that cafe.,あのカフェは居心地がよい.,comfortable
 248,I find it ____[× feel pleasant] to talk with her.,彼女と話すのは楽しいと感じる.,pleasant
 249,Call me when ____ ____ ____ ____ you[× when you are convenient].,都合のよいときに電話してください.,it is convenient for
 249,My house is ____ ____[<英>for]the station.,私の家は駅から近くて便利だ.,convenient to
-250,____ information,誤った情報,FALSE
-250,give a ____ name,偽名を使う,FALSE
+250,____ information,"誤った情報（『""』で囲ってください（例”apple""））",FALSE
+250,give a ____ name,"偽名を使う （『""』で囲ってください（例”apple""））",FALSE
 251,I have a ____ sense of direction.,私は方向音痴(ひどい方向感覚)だ.,terrible
 251,I ____ ____ ____ remembering people's names.,人の名前を覚えるのが苦手だ.,am terrible at
 252,an ____ smell of cat urine [j?arin],ネコの尿のひどい臭い,awful
@@ -552,7 +552,7 @@ id,sentence,japanese,answer
 259,a ____ flight to Paris,パリへの直行便,direct
 259,____ the play,その劇を演出する,direct
 259,____ their attention ____ this problem,この問題に彼らの注意を向ける,direct to
-259,____ her to the airport,彼女に空港への道を教える,direct to
+259,____ her ____ the airport,彼女に空港への道を教える,direct to
 260,Shakespeare ____ ____ ____ people all over the world.,シェイクスピアは世界中の人々に知られている.,is familiar to
 260,I am very ____ ____ this town.,私はこの街をよく知っている.,familiar with
 261,She ____ ____ ____ her mother in appearance.,彼女は見た目が母親に似ている.,is similar to
