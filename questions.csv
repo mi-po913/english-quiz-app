@@ -919,7 +919,6 @@ id,sentence,japanese,answer
 413,____ my parents,両親を敬う,honor
 414,____ over tea,お茶を飲みながらおしゃべりする,chat
 414,enjoy ____ ____ ____ neighbors,井戸端会議(近所の人たちとのおしやべり)を楽しむ,a chat with
-,,,
 415,____ ____ my childhood,私の子どものころについて触れる,refer to
 415,"What does the underlined ""it"" ____ ____?",下線を引いた“it”の指すものは何か,refer to
 416,You'd better not ____ it. (* You'd = You had),それには触れ(それについて述べ)ないほうがいい.,mention
@@ -931,3 +930,103 @@ id,sentence,japanese,answer
 420,He often ____ when talking about fish he caught.,彼は釣った魚について話すときに大げさに言うことが多い.,exaggerates
 421,"I asked him why, but he didn't ____.",彼になぜかと尋ねたが、彼は返事をしなかった.,reply
 421,I look forward to your ____.,あなたの返事を楽しみにしています。,reply
+422,____ ____ a question,質問に回答する,respond to
+422,____ quickly ____ customer complaints,客のクレームに素早く対応する,respond to
+423,____ in her ear,彼女の耳元でささやく,whisper
+423,talk ____ ____ ____,小声(ささやき声)で話す,in a whisper
+424,his ____ ____,彼の何気なく言った発言,casual remark
+424,He ____ ____ the pot was very old.,そのつぼはとても古いものだと彼は言った.,remarked that
+425,____ the behavior of birds,鳥の行動を観察する,observe
+425,____ ____ humans fall into three social classes,人間は３つの社会集団に分かれると述べる,observe that
+425,____ the school regulations,校則を守る,observe
+425,____ Christmas,クリスマスを祝う,observe
+426,Your plan is excellent ____ ____.,あなたの計画は理論上はすばらしい.,in theory
+426,publish a new ____,新しい学説を発表する,theory
+427,handwriting ____,筆跡鑑定(分析),analysis
+428,____ ____,自然現象,natural phenomena
+428,a child ____,神童(並外れて優考な子どものこと）,phenomenon
+429,a drone with a GPS ____,GPS 装置を搭載したドローン,device
+430,____ ____ ____ chemical ____,化学の実験をする,carry out a experiment
+430,____ ____ a new medicine,新薬で実験する,experiment with
+431,____ that are harmful to the environment,環境に有害な化学物質,chemicals
+431,"a ____ ____[factory, reaction,formula]","化学記号[工場,反応,式]",chemical symbol
+432,burn ____ ____,化石燃料を燃やす,fossil fuels
+432,____ her fear,彼女の恐怖を増大させる,fuel
+433,a ____ ____ ____,原子力発電所,nuclear power plant
+434,____ ____ ____ younger people prefer football to baseball.,"統計によると,若年層は野球よりサッカーを好むようだ。",Statistics show that
+434,mathematical ____,数理統計学,statistics
+435,____ ____ ____ in journalism,報道関係の道に進む,pursue a career
+435,____ a criminal,犯人を追いかける,pursue
+436,____ this task,この仕事をやり遂げる,accomplish
+437,____ my shyness,私の内気なところを克服する,overcome
+438,____ a childhood dream,子どものころの夢を果たす,fulfill
+438,____ our requirements,私たちの要求を満たす,fulfill
+439,____ my life ____ helping others,人助けに人生をささげる,devote to
+440,____ ____ cut costs,経費削減に努力する,strive to
+441,____ ____ finish by Wednesday,水曜日までに終わらせるつもりだ,aim to
+441,This book ____ ____ ____ teenagers.,"この本は10代の若者向けてす,",is aimed at
+441,the ____ of this course,この講座の狙い,aim
+442,face a big ____,大きな課題に直面する,challenge
+442,____ the decision,その決定に異讓を唱える,challenge
+443,____ ____ ____ ____,試行錯誤で,by trial and error
+443,____ ____ ____ murder,殺人罪で裁判を受ける,stand trial for
+443,go through a bitter ____,苦しい試練を受ける,trial
+444,I ____ ____ when I stood up.,立ち上がったときにめまいがした．,felt dizzy
+445,____ a hearty ____,食欲が旺盛だ．,have appetite
+446,A lot of people are ____ ____ ____ in Africa.,アフリカでは多くの人が餓死している．,starving to death
+446,I'm ____.What's for dinner?,お腹がぺこぺこだ．夕食は何？,starving
+447,____ and physical ____,心身の健康,mental health
+447,____ ____(⇔manual labor),知的労働（⇔肉体労働）,mental labor
+448,____ ____ ____,（ちょっと）休憩する,take a rest
+448,____ ____ of the day,その日の残り（の時間）,the rest
+448,You need to ____ for a while.,君はしばらく休憩する必要があるよ．,rest
+448,Our success ____ ____ his ability.,私たちの成功は彼の能力次第だ．,rests on
+448,____ my eyes,目を休ませる,rest
+449,____ heart bypass ____,心臓バイパス手術を受ける,have surgery
+449,dental ____,口腔外科,surgery
+450,the risk of ____ ____,心臓病のリスク,heart disease
+451,drop out of the race because of a sudden ____,突然の腹痛でレースを棄権する,stomachache
+452,show the ____ of heatstroke,熱中症の症状が現れる,symptoms
+452,a ____ of social inequality,社会の不平等の兆候,symptom
+453,____ [×because] ____,がんになる,get cancer
+453,My star sign is ____.,私の星座はかに座です．,Cancer
+454,fire engines and ____,消防車と救急車,ambulances
+455,____ ____ a heart attack,心臓発作から回復する,recover from
+455,____ the paintings stolen from the museum,美術館から盗まれた絵画を取り戻す,recover
+456,____ ____ ____ ____ from a cold,かぜでのどが痛い,have a sore throat
+456,a ____ subject,触れてほしくない話題,sore
+457,My eyelids ____ ____.,まぶたが腫れ上がった．,swelled up
+457,The balloon was ____ more and more.,その風船はどんどん膨らんでいった．,swelling
+458,____ loudly,大きく咳をする,cough
+458,I ____ ____bad ____.,咳がひどい．,have a cough
+459,My nose has started to ____.,鼻血が出てきた（鼻が出血し始めた）．,bleed
+460,____ pencil lines,かすかな鉛筆の跡,faint
+460,____ in the extreme heat,猛暑の中で気絶する,faint
+460,fall down in a ____,気絶して倒れる,faint
+461,I ____ ____ ____ walking all day.,１日中歩いてくたくただ．,am exhausted from
+461,I have ____ my savings.,貯金を使い果たした．,exhausted
+461,automobiles ____ ____[gas],自動車の排気ガス,exhaust fumes
+462,____ you ____ your disease,あなたの病気を治す,cure of
+462,a ____ ____ a headache,頭痛の治療法,cure for
+463,He is ____ ____.,彼は身体に障害がある．,physically disabled
+463,a toilet for ____ ____,障がい者用（のための）トイレ,the disabled
+464,desk work gives me a ____ back.,デスクワークで腰が痛い．,stiff
+464,behave in a ____ manner,堅苦しい感じにふるまう,stiff
+465,____ my arm ____,腕の筋肉をつける,develop muscles
+466,____ my ____ ____ at him,彼にあかんべえをする（舌を出す）,stick tongue out
+466,____ ____ ____,言葉遣いに気をつけなさい．,Watch your tongue
+466,____ ____ sharp ____,口が悪い（辛辣な話し方をする）,have a tongue
+467,____ ____ ____ ____ ____,時間の感覚をなくす,lose my sense of time
+467,____ ____,常識（共通の分別）,common sense
+467,____ ____ broad[narrow] ____,広い[狭い]意味では,in a sense
+467,____ that something is wrong,何かがおかしいと感じる,sense
+468,wipe the ____ off my forehead,額の汗をぬぐう,sweat
+468,____ a lot,汗だくになる（たくさん汗をかく）,sweat
+469,regardless of age or ____,年齢，性別とは無関係に,gender
+470,?What is your ____?”?I'm ____.”,「あなたの国籍は？」「日本です（←日本人です）．」,nationality Japanese
+471,the population of ____ ____,高齢者(高齢の市民)人口,senior citizens
+471,British ____ living in Japan,日本に住むイギリス人,citizens
+472,____ ____,公民権（選挙権などの権利）,civil rights
+472,____ ____ ____,アメリカ南北戦争（国内の戦争）,the Civil War
+472,She is ____ but not friendly.,彼女は礼儀正しいが友好的ではない．,civil
+473,____ ____,人種差別,racial discrimination
