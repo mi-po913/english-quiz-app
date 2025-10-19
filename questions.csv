@@ -1323,7 +1323,7 @@ id,sentence,japanese,answer
 620,The players ____ each other tightly.,選手たちは互いにしっかり抱き合った(互いをしっかり抱いた).,hugged
 620,____ her ____ ____,彼女を抱きしめる,give a hug
 621,____ ____ a computer screen,コンピュータの画面をじっと見つめる,stare at
-621,"____ him ____ long, hard ____",彼を長い間にらみつける,give a hug
+621,"____ him ____ long, hard ____",彼を長い間にらみつける,give a stare
 622,____ ____ the ceiling,天井を見つめる,gaze at
 622,attract everybody's ____,皆の視線を集める,gaze
 623,____ ____ the clock,時計をちらっと見る,glance at
@@ -1671,7 +1671,7 @@ id,sentence,japanese,answer
 808,a ____ increase in prices,急激な物価の上昇,sharp
 808,his ____ tongue,彼の毒舌(きつい言葉),sharp
 808,a ____ knife,鋭いナイフ,sharp
-808,at ten (o'clock) ____,40時きっかりに,sharp
+808,at ten (o'clock) ____,10時きっかりに,sharp
 809,The supporters ____ ____.,サポーターたちは落ち着いていた.,stayed calm
 809,Try and ____ ____.,落ち着きなさい.,calm down
 809,The doctor used medicine to ____ him ____.,医者は彼を落ち着かせるために薬を使った.,calm down
@@ -1699,3 +1699,52 @@ id,sentence,japanese,answer
 820,a custom that is ____ ____ me,私にとって異質な慣習,alien to
 820,____ cultures,外国の文化,alien
 821,Women ____ ____ count calories more an men do.,女性は男性よりカロリー計算をする傾向がある,tend to
+822,Masato has trained so hard that he ____ ____ win.,"マサトは一生懸命トレーニンクしているので,勝ってもおかしくない(勝利することに値する).",deserves to
+823,glass ____,ガラスの破片,fragments
+824,____ ____ ____ ____[x a wide] topics,幅広い話題,a wide range of
+824,Their ages ____ ____ seven ____ aleven.,彼らの年齢は7歳から11歳？？？？？たっている.,range from to
+825,do business ____ ____ ____ ____,手広く(大規模に)商売をする,on a large scale
+825,step on the ____ (s),体重計に乗る,scale
+825,remove ____ from a fish,魚のうろこを落とす,scales
+826,This custom ____ ____ ____ Japan.,この習慣は日本特有のものだ.,is unique to
+826,Her voice is ____ ____.,彼女の声はとても独特だ.,totally unique
+827,a ____ situation,ある特定の状況,particular
+827,I ____ ____ ____ pillows.,私は枕にこだわりがある.,am particular about
+827,Nothing ____ ____.,(意見や予定などを尋ねられた？？として)特にはないです.,in particular
+828,a ____ Japanese-style breakfast,典型的な日本の朝食,typical
+829,the ____ public,一般大衆,general
+829,____ Grant,グラント将軍(*南北戦争の北軍総司令官),General
+830,the lives of ____ ____,庶民(ふつうの人々)の生活,ordinary people
+831,Middle-aged and older people ____ ____ 70% of the group.,中高年がその集団の70%を占める、,account for
+831,Stress ____ ____ his failure.,ストレスが彼の失敗の原因だ.,accounts for
+831,by her ____,彼女の説明では,account
+831,____ a bank ____,銀行口座を開く,open account
+832,____ this month's expenses,今月の出費を計算する,calculate
+833,Please ____ your blood pressure.,血圧を測ってください.,measure
+833,His waist ____ over a meter.,彼のウエストは1メートルを超えている(寸法がある).,measures
+833,____ drastic ____ ____ pass the bill,法案を通すために強硬手段に出る,take measures to
+834,Educational standards are ____.,教育水準が下がっている.,declining
+834,____ his invitation to dinner,彼のタ食の誘いを断る,decline
+834,a ____ ____ in unemployment,失業率の急激な減少,sharp decline
+835,Let's ____ ____ ____.,割り勘にしよう(勘定を割る).,split the bill
+835,The issue ____ the church.,その問題は教会を分裂させた.,split
+835,____ ____ three groups,3つのグループに分かれる,split into
+835,a ____ in the party,党の分裂,split
+836,the ____ of a cylinder,円柱の体積,volume
+836,____ ____ ____ ____ on the TV,テレビのボリュームを小さくする,turn down the volume
+836,an encyclopedia in 30 ____,30巻からなる百科事典,volumes
+837,____ ____ ____ boys ____ girls in my school is five to one.,私の学校の男女比は5:1だ.,The proportion of to
+837,a large ____ ____ the audience,観客の大部分,proportion of
+837,a dam ____ great ____,大規模なダム,of proportions
+838,two ____ eggs,2ダースの卵,dozen
+838,____ ____ people,数十人,dozens of
+839,a large ____ ____ fat,大量の脂肪,amount of
+839,My debts ____ ____ $200.,私の借金は合計 200 ドルになる.,amount to
+839,Our ideas ____ ____ the same thing.,私たちの考えは結局同じことだ.,amount to
+840,____ ____ ____ ____ data,非常に多くのデータ,a huge mass of
+840,a movie aimed at ____ ____,大衆向けの映画,the masses
+840,____ ____ ____ concrete,コンクリートのかたまり,a mass of
+840,the ____ of our solar system,太陽系の質量,mass
+840,go to ____,ミサに行く,Mass
+841,There is a water ____ in this area.,この地域は水が不足している.,shortage
+842,____ ____ ____ ____ time[×an enormous time],莫大な(量の)時間,an enormous amount of
