@@ -1699,10 +1699,10 @@ id,sentence,japanese,answer
 820,a custom that is ____ ____ me,私にとって異質な慣習,alien to
 820,____ cultures,外国の文化,alien
 821,Women ____ ____ count calories more an men do.,女性は男性よりカロリー計算をする傾向がある,tend to
-822,Masato has trained so hard that he ____ ____ win.,"マサトは一生懸命トレーニンクしているので,勝ってもおかしくない(勝利することに値する).",deserves to
+822,Masato has trained so hard that he ____ ____ win.,"マサトは一生懸命トレーニングしているので,勝ってもおかしくない(勝利することに値する).",deserves to
 823,glass ____,ガラスの破片,fragments
 824,____ ____ ____ ____[x a wide] topics,幅広い話題,a wide range of
-824,Their ages ____ ____ seven ____ aleven.,彼らの年齢は7歳から11歳？？？？？たっている.,range from to
+824,Their ages ____ ____ seven ____ eleven.,彼らの年齢は7歳から11歳にわたっている.,range from to
 825,do business ____ ____ ____ ____,手広く(大規模に)商売をする,on a large scale
 825,step on the ____ (s),体重計に乗る,scale
 825,remove ____ from a fish,魚のうろこを落とす,scales
@@ -1710,7 +1710,7 @@ id,sentence,japanese,answer
 826,Her voice is ____ ____.,彼女の声はとても独特だ.,totally unique
 827,a ____ situation,ある特定の状況,particular
 827,I ____ ____ ____ pillows.,私は枕にこだわりがある.,am particular about
-827,Nothing ____ ____.,(意見や予定などを尋ねられた？？として)特にはないです.,in particular
+827,Nothing ____ ____.,(意見や予定などを尋ねられた答えとして)特にはないです.,in particular
 828,a ____ Japanese-style breakfast,典型的な日本の朝食,typical
 829,the ____ public,一般大衆,general
 829,____ Grant,グラント将軍(*南北戦争の北軍総司令官),General
@@ -1798,7 +1798,7 @@ id,sentence,japanese,answer
 866,There is no other ____.,ほかの選択肢がない.,alternative
 866,____ energy sources,代替エネルギー源,alternative
 867,____ pizzas,ピザを配達する,deliver
-867,____ his inaugural[in?:gjural] address,(彼の)就任演説をする,deliver
+867,____ his inaugural address,(彼の)就任演説をする,deliver
 868,____ several photos,何枚かの写真を同封する,enclose
 868,be ____ by high walls,高い塀に囲まれている,enclosed
 869,put a stamp on the ____,封筒に切手を貼る,envelope
@@ -1944,7 +1944,7 @@ id,sentence,japanese,answer
 940,____ them ____ Italian cuisine,イタリア料理で彼らをもてなす,entertain with
 941,The clown ____ us all. (*ピエロ(pierrot)は〈仏〉.),そのピエロは私たちみんなを楽しませた.,amused
 942,The pop star's marriage ____ media attention.,人気スターの結婚はマスコミの関心を引きつけた.,attracted
-943,I ____ ____ ____ the Sagrada Familia.,サグラダ?ファミリアに魅了された.,was fascinated by
+943,I ____ ____ ____ the Sagrada Familia.,サグラダファミリアに魅了された.,was fascinated by
 944,I ____ ____ ____ a book.,私は本に夢中になっていた.,was absorbed in
 944,____ water,水を吸収する,absorb
 945,I am very ____ ____ ramen.,私はラーメンが大好きだ.,fond of
@@ -1992,7 +1992,7 @@ id,sentence,japanese,answer
 971,I have great ____ ____ my staff.,私は職員を全面的に信頼している.,confidence in
 972,have the ____ ____ say no,断る勇気を持つ,courage to
 973,have a ____ ____ music,音楽への情熱を持っている,passion for
-974,xperience the ____ ____ sorrows of life,人生の苦楽を経験する,joys and
+974,experience the ____ ____ ____ of life,人生の苦楽を経験する,joys and sorrows
 975,completely ____ him,完全に彼を無視する,ignore
 976,His jokes ____ Irish people.,彼の冗談はアイルランドの人たちを怒らせた.,offended
 977,The rainy weather ____ me.,雨天ですっかり気がめいってしまった.(私を落ち込ませた).,depressed
@@ -2034,3 +2034,36 @@ id,sentence,japanese,answer
 999,____ ____ a public poll,世論調査によると,according to
 999,Charges vary ____ ____ size.,料金は大きさによって変わります.,according to
 1000,"The soccer match was held, ____ the heavy rain.","大雨にもかかわらず,そのサッカーの試合は行われた.",despite
+1001,____ a new program,新しい計画を提案する,propose
+1001,get down on my knee to ____ ____ her,片膝ついて彼女にプロポーズする,propose to
+1002,____ his proposal ____ unrealistic,非現実的だとして彼の提案を退ける,dismiss as
+1002,____ the employees,従業員を解雇する,dismiss
+1003,(God)____ you!,お大事に(神があなたを祝福しますように),bless
+1004,his ____ days as a college basketball star,大学バスケットボールのスター選手としての彼の栄光の日々,glory
+1005,____ ____ his shoes,彼の靴への誉め言葉,compliments on
+1005,____ her ____ her new hairstayle,新しい髪形について、彼女を褒める,compliment on
+1006,the wedding ____,結婚式の宴席,feast
+1006,This movie festival is a ____ ____ cinema-goers.,この映画祭は映画好きにはたまらない。,feast for
+1007,He ____ that he was innocent.,彼は無実だとはっきり述べた。,declared
+1007,Do you have anything to ____?,申告するものはありますか。,declare
+1008,____ the issue of global warming,地球温暖化の問題を強調する,highlight
+1008,the ____ of the show,そのショーの見所,highlight
+1009,Alex ____ that he would resign.,アレックスは辞意をほのめかした。,implied
+1010,____ a poem,詩を暗唱する,recite
+1011,the sun's ____,太陽光線,rays
+1011,take an X-____,レントゲン(エックス線)検査を受ける,ray
+1011,____ ____ ____ hope,一縷の望み,a ray of
+1012,The workers were exposed to ____.,その労働者たちは被ばくした(放射線さらされた)。,radiation
+1013,____ experiments,研究室での実験,laboratory
+1014,Water is made up of ____ and hydrogen.,水は酸素と水素から出来ている。,oxygen
+1015,a water ____,水分子,molecule
+1016,a chemical ____,化合物,compound
+1016,"""Duty-free"" is a ____ word.",「免税の」は複合語だ。,compound
+1017,nerve ____,神経組織,tissue
+1017,take a ____[×tissue paper],ティッシュペーパーを取る,tissue
+1018,remove the cencerous ____,がん細胞を除去する,cells
+1018,a fuel ____,燃料電池,cell
+1018,spend a week in a ____,独房で一週間過ごす,cell
+1019,the ____ for black hair,黒い髪の遺伝子,gene
+1020,a cencer-causing ____,発がん性物質,substance
+1020,a rumor with no ____,根拠のないうわさ,substance
