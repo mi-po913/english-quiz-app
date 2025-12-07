@@ -2094,7 +2094,7 @@ id,sentence,japanese,answer
 1032,____ a muscle in my leg,足の筋肉を痛める,strain
 1033,a ____ for colds,かぜの治療法,remedy
 1033,a ____ for unemployment,失業対策,remedy
-1034,buy medicine at a nearby ,近くの薬局で薬を買う,pharmacy
+1034,buy medicine at a nearby ____,近くの薬局で薬を買う,pharmacy
 1035,emergency ____,救急医,physicians
 1035,the Royal college of ____,英国王立内科医協会,Physicians
 1036,eating ____,摂食障害,disorders
@@ -2103,3 +2103,34 @@ id,sentence,japanese,answer
 1039,____ people by laying my hands on their bodies,体に手を当てて人々を治す,heal
 1039,The injury will ____ quickly.,傷はすぐに治るだろう.,heal
 1040,My dog was ____ ____ a virus[v?iaras].,うちのイヌはウイルスに感染した(感染させられた).,infected with
+1041,____ my ____,足首をひねる,twist ankle
+1042,stick up my ____,親指を立てる,thumb
+1043,I've got a  pimple on my ____.,(私の)おでこににきびができた。,forehead
+1044,stick up my ____,あごを突き出す,chin
+1045,have a ____ X-ray examination,胸部のレントゲン検査を受ける,chest
+1045,a large wooden ____,大きな木の箱,chest
+1046,early detection of ____ cancer,乳がんの早期発見,breast
+1047,the heart and the ____,(ヒトの)心肺,lungs
+1048,wait for an ____ ____,臓器移植を待つ,organ transplant
+1048,play the ____,オルガンを弾く,organ
+1049,"have good[normal,poor] ____",視力が良い[正常だ、悪い],vision
+1049,his ____ for Japan's future,日本の未来の彼の予想図,vision
+1049,a leader ____ ____,先見の明のある指導者,with vision
+1050,a model of the human ____,ヒトの骸骨の模型,skeleton
+1051,lose all ____ in my toes,足の指先の感覚がなくなる,sensation
+1051,I had the ____ that I was being followed.,後をつけられているのではないかという感じがした。,sensation
+1052,Does the restaurant have ____ ____ ____?,そのレストランには服装規定はありますか。,a dress code
+1052,write ____ ____,暗号で書く,in code
+1053,the ____ ____ today's meeting,本日の会議の議題,agenda for
+1054,fight for ____ and equality,自由と平等のために戦う,liberty
+1055,the International Olympic ____,国際オリンピック委員会,Committee
+1056,a crime against ____,人類に対する犯罪,humanity
+1056,a student of ____ ____,文系の学生,the humanities
+1056,a teacher of deep ____,人間性あふれる教師,humanity
+1057,in the history of ____,人類の歴史において,mankind
+1058,an ____ ____ orthodontics,歯科矯正学の権威,authority on
+1058,someone ____ ____,権力のある人,in authority
+1058,the school ____,学校当局,authorities
+1059,have a strong ____ ____ ____,正義感が強い,sense of justice
+1060,have[buy] health ____,健康保険に入っている[入る],insurance
+1061,suffer financial ____,お金で苦労する(経済的苦難に苦しむ),hardship
