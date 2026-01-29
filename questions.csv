@@ -2432,36 +2432,36 @@ id,sentence,japanese,answer
 1227,be on the ____ of a bear,クマを追跡している(クマの跡にいる),trail
 1227,Hurricane Noel left ____ ____ ____ destruction behind it.,ハリケーン?ノエルは被害の爪跡を残した.,a trail of
 1228,a mountain ____,谷川,stream
-,an endless stream of visitors,途切れることのない訪問客の流れ,
-,The tide is in [out].,満[干]潮である.,
-,go with the tide of the times,時流に乗る,
-,coral reef,サンゴ礁,
-,the natural habitat of sea lions,アシカの自然生息地,
-,That volcano erupted last year.,その火山は昨年噴火した。,
-,work in a coal mine,炭鉱で働く,
-,lay mines,地雷を仕掛ける,
-,One swallow does not make a summer.,《ことわざ》早合点は禁物(ツバメー羽で夏になるわけではない)。,
-,swallow[× drink] a capsule,カプセルを飲み込む,
-,weave a web,(クモが)巣を張る,
-,via the Web,インターネット経由で,
-,I was bitten by a mosquito.,蚊に刺された.,
-,"cattle, sheep, and other domestic animals (* sheep は〈単複同形〉.)","ウシ,ヒツジとそれ以外の家畜",
-1238,a lost kitten,迷子の子ネコ,
-,microscopic organisms(=microorganisms),微生物,
-,the wildlife of the Galapagos Islands,ガラパゴス諸島の野生生物,
-,"the lion, the king of beasts",百獸の王ライオン,
-,great apes,大型(×偉大な)類人猿,
-,a flock of crows,カラスの一群,
-,Birds of a feather flock together.,《ことわざ》類は友を呼ぶ(同じ羽の鳥は一緒に群れる).,
-,inject a medicine into a vein,静脈に薬を注射する,
-,Rabbits breed all year round.,ウサギは年中繁殖する。,
-,breed sheep for the market,出荷用にヒツジを繁殖させる,
-,Poverty breeds terrorism.,貧困がテロを生み出す。,
-,Shibainu is my favorite breed.,柴犬は私の好きな血続だ.,
-,The virus can reproduce rapidly.,ウイルスは急速に繁殖する。,
-,reproduce bacteria,バクテリアを繁殖させる,
-,permission to reproduce the cartoon,そのマンガを転載する許可,
-,a talkative taxi driver,おしゃべりなタクシー運転手,
+1228,an endless ____ of visitors,途切れることのない訪問客の流れ,stream
+1229,The ____ is in [out].,満[干]潮である.,tide
+1229,go with the ____ of the times,時流に乗る,tide
+1230,coral ____,サンゴ礁,reef
+1231,the natural ____ of sea lions,アシカの自然生息地,habitat
+1232,That ____ erupted last year.,その火山は昨年噴火した。,volcano
+1233,work in a coal ____,炭鉱で働く,mine
+1233,lay ____,地雷を仕掛ける,mines
+1234,One ____ does not make a summer.,《ことわざ》早合点は禁物(ツバメー羽で夏になるわけではない)。,swallow
+1234,____ [× drink] a capsule,カプセルを飲み込む,swallow
+1235,weave a ____,(クモが)巣を張る,web
+1235,via ____ ____,インターネット経由で,the Web
+1236,I was bitten by a ____.,蚊に刺された.,mosquito
+1237,"____ , sheep, and other domestic animals (* sheep は〈単複同形〉.)","ウシ,ヒツジとそれ以外の家畜",cattle
+1238,a lost ____,迷子の子ネコ,kitten
+1239,microscopic ____ (=microorganisms),微生物,organisms
+1240,the ____ of the Galapagos Islands,ガラパゴス諸島の野生生物,wildlife
+1241,"the lion, the king of ____",百獸の王ライオン,beasts
+1242,great ____,大型(×偉大な)類人猿,apes
+1243,____ ____ ____ crows,カラスの一群,a flock of
+1243,Birds of a feather ____ together.,《ことわざ》類は友を呼ぶ(同じ羽の鳥は一緒に群れる).,flock
+1244,inject a medicine into a ____,静脈に薬を注射する,vein
+1245,Rabbits ____ all year round.,ウサギは年中繁殖する。,breed
+1245,____ sheep for the market,出荷用にヒツジを繁殖させる,breed
+1245,Poverty ____ terrorism.,貧困がテロを生み出す。,breeds
+1245,Shibainu is my favorite ____.,柴犬は私の好きな血続だ.,breed
+1246,The virus can ____ rapidly.,ウイルスは急速に繁殖する。,reproduce
+1246,____ bacteria,バクテリアを繁殖させる,reproduce
+1246,permission to ____ the cartoon,そのマンガを転載する許可,reproduce
+1247,a ____ taxi driver,おしゃべりなタクシー運転手,talkative
 1248,make an earnest effort,真面目に働く,
 ,work in earnest,真面目に努力する,
 ,a diligent student,勤勉な学生,
