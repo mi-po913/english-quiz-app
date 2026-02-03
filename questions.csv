@@ -2494,40 +2494,65 @@ id,sentence,japanese,answer
 1266,leave a ____ taste in my mouth,後味が悪い(口の中に嫌な味を残す),nasty
 1267,Have you gone ____?,正気を失ったか?,insane
 1268,I believe that lowering the voting age is a ____ idea.,選挙年齢を引き下げるのはばかげた考えだと思う.,ridiculous
-1269,rotten eggs,腐った卵,
-,That clothing shop is notorious for its poor quality.,その服屋は低品質で悪名高い。,
-,an evil spirit,悪雪,
-,Racism is a social evil.,人種差別は社会悪だ.,
-,make a mess of the room,部屋をめちゃくちゃにする,
-,Don't mess with me!,ふざけるな(私をからかうな)!,
-,a vast palace,広大な宮殿,
-,a vast amount of money,巨額のお金,
-,a huge elephant,巨大なゾウ,
-,a tiny hole in the wall,壁に開いたとても小さな穴,
-,a perfect sphere,完全な球体,
-,his achievements in the diplomatic sphere,外交面での彼の業績,
-,a strip of paper,細長い紙片,
-,strip him of his rank,彼から地位を奪う,
-,strip (down) to the waist,上半身裸になる,
-,a blood vessel in the brain,脳内の血管,
-,"a cargo [fishing, passenger] vessel","貨物[漁,客]船",
-1279,internal organs,内臟,
-,the internal problems of Japan,日本の国内問題,
-,a mobile society,流動的な社会,
-,Call me on my mobile.,私の携帯電話に電話してください.,
-,climb steep stone steps,急な石段を上る,
-,a steep price rise,物価の急騰,
-,intense pressure to succeed,成功しなければという強烈な重圧,
-,an inevitable result,避けられない結果,
-,a demilitarized neutral zone,非武装中立地帯,
-,carbon neutral,"炭素中立(*排出,吸収される二酸化炭素の量を同じにするという概念)",
-,have a brief conversation with her,彼女と少し話(手短な会話)をする,
-,in brief,要するに(手短に言えば),
-,Her arms were bare.,彼女の腕はむき出しだった.,
-,the bare necessities of life,最低限の生活必需品,
-,promote mutual understanding,相互の理解を促進させる,
-,a mutual friend,共通の友だち,
-,a potential customer,将来の(潜在的な)顧客,
-,That child actor has a lot of potential.,あの子役は大きな可能性がある.,
-,a tough soldier,たくましい兵士,
-,have a tough time,厳しい時間を過ごす,
+1269,____ eggs,腐った卵,rotten
+1270,That clothing shop ____ ____ ____ its poor quality.,その服屋は低品質で悪名高い。,is notorious for
+1271,an ____ spirit,悪雪,evil
+1271,Racism is a social ____.,人種差別は社会悪だ.,evil
+1272,____ ____ ____ of the room,部屋をめちゃくちゃにする,make a mess
+1272,Don't ____ ____ me!,ふざけるな(私をからかうな)!,mess with
+1273,a ____ palace,広大な宮殿,vast
+1273,____ ____ ____ of money,巨額のお金,a vast amount
+1274,a ____ elephant,巨大なゾウ,huge
+1275,a ____ hole in the wall,壁に開いたとても小さな穴,tiny
+1276,a perfect ____,完全な球体,sphere
+1276,his achievements in the diplomatic ____,外交面での彼の業績,sphere
+1277,a ____ of paper,細長い紙片,strip
+1277,____ him ____ his rank,彼から地位を奪う,strip of
+1277,____ (down) to the waist,上半身裸になる,strip
+1278,a ____ ____ in the brain,脳内の血管,blood vessel
+1278,"a cargo [fishing, passenger] ____","貨物[漁,客]船",vessel
+1279,____ organs,内臟,internal
+1279,the ____ problems of Japan,日本の国内問題,internal
+1280,a ____ society,流動的な社会,mobile
+1280,Call me on my ____.,私の携帯電話に電話してください.,mobile
+1281,climb ____ stone steps,急な石段を上る,steep
+1281,a ____ price rise,物価の急騰,steep
+1282,____ pressure to succeed,成功しなければという強烈な重圧,intense
+1283,an ____ result,避けられない結果,inevitable
+1284,a demilitarized ____ zone,非武装中立地帯,neutral
+1284,carbon ____,"炭素中立(*排出,吸収される二酸化炭素の量を同じにするという概念)",neutral
+1285,have a ____ ____ with her,彼女と少し話(手短な会話)をする,brief conversation
+1285,in ____,要するに(手短に言えば),brief
+1286,Her arms were ____.,彼女の腕はむき出しだった.,bare
+1286,the ____ necessities of life,最低限の生活必需品,bare
+1287,promote ____ understanding,相互の理解を促進させる,mutual
+1287,a ____ friend,共通の友だち,mutual
+1288,a ____ customer,将来の(潜在的な)顧客,potential
+1288,That child actor has a lot of ____.,あの子役は大きな可能性がある.,potential
+1289,a ____ soldier,たくましい兵士,tough
+1289,have a ____ time,厳しい時間を過ごす,tough
+p371,conventional weapons,通常兵器(従来の兵器),
+,the Supreme Court,最高裁判所,
+,Peter resembles his father in every way.,ピーターはあらゆる点で父親に似ている。,
+,"Roger is not stupid; on the contrary, he is a genius.",ロジャーはばかではない。それどころか天才だ。,
+,contrary to popular belief,世間の考えとは逆に,
+,evidence to the contrary,その逆の証拠,
+,fall into the same category,同じ範疇に属する,
+,limit the scope of our activities,私たちの活動範囲を制限する,
+,a given period of time,ある一定の期間,
+,"Given the situation, you did well.",状況を考慮すれば、君はよくやった。,
+,a custom peculiar to Japan,日本国有の習慣,
+,a peculiar smell of garlic,にんにくの独特な臭い,
+,sufficient food for everyone,全員にいきわたる十分な食料,
+p373,on numerous occasions,多くの場面で,
+,a substantial breakfast,ボリュームのある(たくさんの)朝食,
+,a substantial workshop,内容のある勉強会,
+,The family is the smallest unit of society.,家族は社会の最小の単位だ。,
+,two meters in diameter,直径２メートル,
+,"reading, writing, and arithmetic",読み、書き、算盤(←算術),
+,Quality is more important than quantity.,量より質が重要だ。,
+,a vitamin deficiency,ビタミンの欠乏,
+,"This will cost a maximum of 1,000 dollars.","これは最大で1,000ドルかかります。",
+,a bunch of flowers,花束,
+,lesson the risk of human error,人為的ミスのリスクを軽減する,
+,the dawn of a ner era,新たな時代の幕開け,
