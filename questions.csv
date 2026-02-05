@@ -2531,28 +2531,28 @@ id,sentence,japanese,answer
 1288,That child actor has a lot of ____.,あの子役は大きな可能性がある.,potential
 1289,a ____ soldier,たくましい兵士,tough
 1289,have a ____ time,厳しい時間を過ごす,tough
-p371,conventional weapons,通常兵器(従来の兵器),
-,the Supreme Court,最高裁判所,
-,Peter resembles his father in every way.,ピーターはあらゆる点で父親に似ている。,
-,"Roger is not stupid; on the contrary, he is a genius.",ロジャーはばかではない。それどころか天才だ。,
-,contrary to popular belief,世間の考えとは逆に,
-,evidence to the contrary,その逆の証拠,
-,fall into the same category,同じ範疇に属する,
-,limit the scope of our activities,私たちの活動範囲を制限する,
-,a given period of time,ある一定の期間,
-,"Given the situation, you did well.",状況を考慮すれば、君はよくやった。,
-,a custom peculiar to Japan,日本国有の習慣,
-,a peculiar smell of garlic,にんにくの独特な臭い,
-,sufficient food for everyone,全員にいきわたる十分な食料,
-p373,on numerous occasions,多くの場面で,
-,a substantial breakfast,ボリュームのある(たくさんの)朝食,
-,a substantial workshop,内容のある勉強会,
-,The family is the smallest unit of society.,家族は社会の最小の単位だ。,
-,two meters in diameter,直径２メートル,
-,"reading, writing, and arithmetic",読み、書き、算盤(←算術),
-,Quality is more important than quantity.,量より質が重要だ。,
-,a vitamin deficiency,ビタミンの欠乏,
-,"This will cost a maximum of 1,000 dollars.","これは最大で1,000ドルかかります。",
-,a bunch of flowers,花束,
-,lesson the risk of human error,人為的ミスのリスクを軽減する,
-,the dawn of a ner era,新たな時代の幕開け,
+1290,____ conventional weapons,通常兵器(従来の兵器),conventional
+1291,the ____ Court,最高裁判所,Supreme
+1292,Peter ____ his father in every way.,ピーターはあらゆる点で父親に似ている。,resembles
+1293,"Roger is not stupid; on the ____, he is a genius.",ロジャーはばかではない。それどころか天才だ。,contrary
+1293,____ to popular belief,世間の考えとは逆に,contrary
+1293,evidence to the ____,その逆の証拠,contrary
+1294,fall into the same ____,同じ範疇に属する,category
+1294,limit the ____ ____ our activities,私たちの活動範囲を制限する,scope of
+1295,____ ____ period of time,ある一定の期間,a given
+1296,"____ the situation, you did well.",状況を考慮すれば、君はよくやった。,Given
+1297,a custom ____ ____ Japan,日本国有の習慣,peculiar to
+1297,a ____ smell of garlic,にんにくの独特な臭い,peculiar
+1298,____ food for everyone,全員にいきわたる十分な食料,sufficient
+1299,on ____ occasions,多くの場面で,numerous
+1300,a ____ breakfast,ボリュームのある(たくさんの)朝食,substantial
+1300,a ____ workshop,内容のある勉強会,substantial
+1301,The family is the smallest ____ of society.,家族は社会の最小の単位だ。,unit
+1302,two meters ____ ____,直径２メートル,in diameter
+1303,"reading, writing, and ____",読み、書き、算盤(←算術),arithmetic
+1304,Quality is more important than ____.,量より質が重要だ。,quantity
+1305,a vitamin ____,ビタミンの欠乏,deficiency
+1306,"This will cost ____ ____ ____ 1,000 dollars.","これは最大で1,000ドルかかります。",a maximum of
+1307,____ ____ ____ flowers,花束,a bunch of
+1308,____ the risk of human error,人為的ミスのリスクを軽減する,lesson
+1309,the dawn of a ner ____,新たな時代の幕開け,era
