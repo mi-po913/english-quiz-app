@@ -36,7 +36,7 @@ id,sentence,japanese,answer
 20,an ____ ____,授賞式,award ceremony
 20,She ____ ____ first prize.(≒ The first prize went to her.),彼女は一等賞をもらった(授与された).,was awarded
 21,____ [×explain about] the rules of baseball to him,彼に野球のルールを説明する,explain
-22,Could you ____ your lost bag?,なくしたバッグ(の特徴)を読明していただけませんか,describe
+22,Could you ____ your lost bag?,なくしたバッグ(の特徴)を説明していただけませんか,describe
 23,____ ____ each other in sign language,手話でお互いに意思の疎通をはかる,communicate with
 23,____ my feelings in English,英語で自分の気持ちを伝える,communicate
 24,____ [× Say] your opinions clearly.,はっきりと意見を言い(を表現し)なさい.,Express
@@ -47,7 +47,7 @@ id,sentence,japanese,answer
 27,science and ____,科学技術(科学と科学技術),technology
 28,____ ____ ____ space rockets,宇宙ロケットに関する研究を行う,do research on
 28,____ an environmental issue,環境問題を研究する,research
-29,collect ____ for a paper,レボートの材料を集める,materials
+29,collect ____ for a paper,レポートの材料を集める,materials
 29,use movies as ____ ____,映画を教材として使う,teaching materials
 29,give ____ support,物質的な援助をする,material
 29,____ changes to the schedule,計画の重大な変更,material
@@ -69,7 +69,7 @@ id,sentence,japanese,answer
 38,make an ____ to be on time,時間に間に合うように努力する,effort
 39,We have ____ on Saturday.,土曜日に練習がある.,practice
 39,____ a plan ____ ____,計画を実行に移す,put into practice
-39,the ____ of sleeping after dinner,タ食後に寝る習慣,practice
+39,the ____ of sleeping after dinner,夕食後に寝る習慣,practice
 39,____ ____ the piano,ピアノの練習をする,practice playing
 39,____ my religion,宗教を実践する,practice
 40,____ his ____ ____ becoming a vet,獣医になるという目標を達成する,achieve goal of
@@ -78,7 +78,7 @@ id,sentence,japanese,answer
 42,____ my cooking skills,私の料理の腕を上達させる,improve
 42,His English has ____ recently.,彼の英語は近頃よくなった.,improved
 43,____ rice and vegetables,米と野菜を生産する,produce
-43,____ a ticket from my pocket,(提示するために)ボケットから切符を取り出す,produce
+43,____ a ticket from my pocket,(提示するために)ポケットから切符を取り出す,produce
 43,fresh farm ____,新鮮な農作物,produce
 44,____ a website,ホームページを創る,create
 44,____ new problems,新たな問題を引き起こす,create
@@ -92,7 +92,7 @@ id,sentence,japanese,answer
 47,You ____ ____ ____.,君は命の恩人だ(私の命を救った).,saved my life
 47,answer all of the questions ____ one,1つを除いて全ての質問に答える,save
 48,take[× drink] the ____ twice a day,1日に2回その薬を飲む,medicine
-48,study ____ at Harvard,ハーパードで医学を学ぶ,medicine
+48,study ____ at Harvard,ハーバードで医学を学ぶ,medicine
 49,The ____ is getting better.,その患者は快方に向かっている.,patient
 49,Teachers need to be ____.,教師は忍耐強くなければならない.,patient
 50,My body is in good ____.,私の体は調子がよい,condition
@@ -109,7 +109,7 @@ id,sentence,japanese,answer
 54,____ ____,定期的に運動する,exercise regularly
 54,____ the ____ to vote,投票権を行使する,exercise right
 55,____ deeply,深呼吸する,breathe
-56,I'm really ____.,本当にのどが?いた.,thirsty
+56,I'm really ____.,本当にのどが渇いた.,thirsty
 56,He ____ ____ ____ power.,彼は権力志向が強い(権力を切望している).,is thirsty for
 57,____ health,体の健康,physical
 57,the ____ world,物質界,physical
@@ -126,7 +126,7 @@ id,sentence,japanese,answer
 62,It is ____ the ____.,それは規則違反だ.,against rules
 62,____ the country,その国を支配する,rule
 63,play an important ____ in society,社会で重要な役割を果たす,role
-64,____ ____ ____ ____ making excuses,言い訳をする期がある,have a habit of
+64,____ ____ ____ ____ making excuses,言い訳をする癖がある,have a habit of
 65,Different countries have different ____.,習慣は国によって違う(異なる国は異なる習慣をもつ).,customs
 65,show what is in my suitcase at ____,税関でスーツケースの中を見せる,customs
 66,Japanese ____,日本の伝統,traditions
@@ -140,7 +140,7 @@ id,sentence,japanese,answer
 69,My ____ were French.,私の祖先はフランス人だった.,ancestors
 70,The ____ ____ Tokyo is larger [×more] than that of Osaka.,東京の人口は大阪の人口より多い.,population of
 70,L.A. has a large Chinese ____.,ロサンゼルスには多くの中国人が住んでいる(多くの中国人住民をもつ).,population
-71,his ____ languagu,彼の母(国)語,native
+71,his ____ language,彼の母(国)語,native
 71,a ____ of Japan,日本生まれの人,native
 72,find a job ____,海外で仕事を見つける,abroad
 73,a ____ bank,地元の銀行,local
@@ -151,7 +151,7 @@ id,sentence,japanese,answer
 75,the ____ of the painting,その絵の価値,value
 75,Everyone has their own ____.,誰もが自分独自の価値観を有する.,values
 75,This shirt is really ____ ____.,このシャツは本当にお買い得だ.,good value
-75,____ their privacy,彼らのプライパシーを重んじる,value
+75,____ their privacy,彼らのプライバシーを重んじる,value
 76,a national ____,国宝,treasure
 76,My secretary is a real ____.,私の秘書は本当に宝物(のような存在)だ,treasure
 76,____ this moment with her,彼女とのこの瞬間を大切にする,treasure
@@ -185,7 +185,7 @@ id,sentence,japanese,answer
 88,at a ____ ____,お手頃価格で,budget price
 89,pay ____ ____ ____,キャンセル料を払う,a cancellation fee
 89,legal ____,弁護士への謝礼,fees
-90,____ ____ are low in Singapore.,シンガボールのタクシー料金(運賃)は安い,Taxi fares
+90,____ ____ are low in Singapore.,シンガポールのタクシー料金(運賃)は安い,Taxi fares
 91,May we have the ____?,お会計お願いします.,bill
 91,the phone ____,電話代の請求書,bill
 91,____ ten thousand-yen ____,1万円札,a bill
@@ -219,7 +219,7 @@ id,sentence,japanese,answer
 102,This horse has to ____ ____.,この馬を殺処分するしかない。,be destroyed
 103,You ____ my plan.,君のせいで計画が台無しだよ,ruined
 103,The flood ____ the town.,洪水が町を破壊してしまった。,ruined
-103,the ____ of Pompeii,ボンペイの遺跡,ruins
+103,the ____ of Pompeii,ポンペイの遺跡,ruins
 104,Tigers are ____ ____ ____ extinction.,トラが絶滅の危機にある。,in danger of
 105,chat with a ____,近所の人と話す,neighbor
 105,My next-door ____ dog barks day and night.,隣の人の犬が昼夜問わず吠える。,neighbor's
@@ -375,7 +375,7 @@ id,sentence,japanese,answer
 169,a required ____,必須科目,subject
 169,get off the ____,話題からそれる,subject
 169,the ____ of the experiment,その実験の被験者,subject
-169,The program ____ ____ ____ change.,プログラムは変更の可能性がありま(変更を受けやすい).,is subject to
+169,The program ____ ____ ____ change.,プログラムは変更の可能性があります(変更を受けやすい).,is subject to
 170,____ a ____ ____,よい教育を受ける,receive good education
 171,have ____ ____ ____ ____ ____ of cinema,映画に関する幅広い知識を持っている,a wide range of knowledge
 172,wear a ____ ____,学校の制服を着ている,school uniform
@@ -494,7 +494,7 @@ id,sentence,japanese,answer
 229,____ ____,漢字,Chinese characters
 230,one of the ____ of large cities,大都会の特徴の1つ,characteristics
 230,his ____ writing style,彼特有の文体,characteristic
-231,Low rainfall is a ____ of deserts.,少ない降水量は砂漠の特徴のつだ,feature
+231,Low rainfall is a ____ of deserts.,少ない降水量は砂漠の特徴の1つだ,feature
 231,a ____ on Samoa,サモアに関する特集記事,feature
 231,The exhibition ____ paintings by Van Gogh.,その展覧会はヴァン?ゴッホの絵画が目玉だ(を特集している).,features
 232,check the ____ of the report,その報告書の詳細を確認する,details
@@ -571,7 +571,7 @@ id,sentence,japanese,answer
 269,____ ____ ____ ____ garbage,生ゴミ(の量)を減らす,reduce the amount of
 269,____ ____ ____ poverty,貧困に陥る,be reduced to
 270,____ the stew ____ small portions,シチューを小分けにする,divide into
-270,Eight ____ ____ four is two.,8 +4=2,divided by
+270,Eight ____ ____ four is two.,8÷4=2,divided by
 271,____ the money,お金を数える,count
 271,____ down from ten to one,10から1まで数える,count
 271,First impressions really ____.,"第一印象は本当に重要だ,",count
@@ -629,7 +629,7 @@ id,sentence,japanese,answer
 289,____ ____ ____,経験から学ぶ,learn from experience
 289,the bitter ____ ____ losing [×that we lost] in the first round,初戦敗退という苦い経験,experience of
 289,____ many hardships,多くの困難を経験する,experience
-290,"If you have ____, neip me.",時間があれば手伝ってよ,time
+290,"If you have ____, help me.",時間があれば手伝ってよ,time
 290,wait for ____ ____ ____,長時間待つ,a long time
 290,change jobs many ____,職を何回も変える,times
 290,This one is ____ ____ ____ large ____ that one,これはあれの3倍の大きさだ,three times as as
@@ -693,7 +693,7 @@ id,sentence,japanese,answer
 313,a 50-pound ____,50ポンド紙幣,note
 313,____ ____ we face a real challenge,私たちは大きな難題に直面していると指摘する,note that
 313,Please ____ ____ the homework is due on Friday.,宿題の締め切りは金曜日だということを忘れずに注意してください.,note that
-314,open the ____,ブレゼントを開ける,present
+314,open the ____,プレゼントを開ける,present
 314,up to the ____,現在に至るまで,present
 314,my ____ job,(私の)今の仕事,present
 314,____ ____,出席者(出席している人々),those present
@@ -707,7 +707,7 @@ id,sentence,japanese,answer
 317,a six-____ (guitar),6弦ギター,string
 318,enjoy my ____ (time),余暇を楽しむ,leisure
 318,the ____ industry,レジャー(余暇の)産業,leisure
-319,a well-balanced ____,栄養パランスのとれた食事,diet
+319,a well-balanced ____,栄養バランスのとれた食事,diet
 319,I ____ ____ ____ ____ now.,今ダイエット中です.,am on a diet
 319,a ____ member,国会議員,Diet
 320,a set of ____,家具一式,furniture
@@ -726,7 +726,7 @@ id,sentence,japanese,answer
 326,change my ____,服を着替える,clothes
 327,Will you ____ me?,(私と)結婚してくれますか?,marry
 327,a ____ couple,夫婦(結婚しているカップル),married
-328,____ each other,お互いに抜拶をする,greet
+328,____ each other,お互いに挨拶をする,greet
 329,____ rice directly ____ the farm,産地に直接米を注文する,order from
 329,____ him ____ stop smoking,たばこをやめるよう彼に命じる,order to
 329,____ an ____ by telephone,電話で注文する,place order
@@ -750,7 +750,7 @@ id,sentence,japanese,answer
 335,practice my ____ over and over,セリフを何度も練習する,lines
 335,____ ____ to buy tickets,チケットを求めて行列を作る,line up
 336,the people sitting ____ the back ____,後列に座っている人,in row
-336,____ a boat on the lake,湖でポートをこぐ,row
+336,____ a boat on the lake,湖でボートをこぐ,row
 337,Classical music was playing in the ____.,BGM(背景)にクラシック音楽が流れていた.,background
 337,people from different ____(=people from all walks of life),さまざまな経歴の人々,backgrounds
 338,go ____ [× to] the opposite ____,反対の方向へ行く,in direction
@@ -781,7 +781,7 @@ id,sentence,japanese,answer
 347,a famous ____ ____ the Bible,聖書の有名な一節,passage from
 347,with the ____ of time,時の経過と共に,passage
 348,____ [build up] my ____,語彙を増やす,increase vocabulary
-349,____ ____ him ____ throughou the school.,彼のうわさは学校中に広まった.,Rumors about spread
+349,____ ____ him ____ throughout the school.,彼のうわさは学校中に広まった.,Rumors about spread
 350,How do you ____ your name?,名前はどのようにつづりますか.,spell
 350,____ ____ ____ ____ the man,その男に呪文をかける,cast a spell on
 350,I've had ____ ____ ____ bad luck recently.,最近ずっとついてない.,a spell of
@@ -793,14 +793,14 @@ id,sentence,japanese,answer
 353,What does that ____?,それはどういう意味ですか.,mean
 353,I didn't ____ ____ bother you.,邪魔をするつもりじゃなかった.,mean to
 353,Don't be so ____.,"そんな意地悪言わないでよ,",mean
-354,This magazine ____ ____ twice a year.,この雑誌は年に回発行されている,is published
+354,This magazine ____ ____ twice a year.,この雑誌は年に２回発行されている,is published
 354,The latest results will ____ ____ tomorrow.,最新の結果は明日発表される.,be published
 355,____ the latest fashions,最新のファッションを展示する,display
 355,____ ____ ____ ____,実力を発揮する,display my real ability
 355,____ my jewelry,宝石を見せびらかす,display
 355,a fireworks ____,花火大会,display
 356,You can ____ him; he keeps secrets,彼のことを信頼してよい、彼は秘密を守る,trust
-356,____ ____ ____ ____ her,彼女を信頓する,put my trust in
+356,____ ____ ____ ____ her,彼女を信頼する,put my trust in
 357,Your success ____ ____ how much effort you make.,成功は君の努力(君がどれくらい努力するか〕次第だ.,depends on
 357,I ____ ____ my parents ____ university tuition.,私は両親に大学の学費を頼っている,depend on for
 358,You can ____ ____ him.,彼なら頼っても大丈夫.,rely on
@@ -820,7 +820,7 @@ id,sentence,japanese,answer
 368,"I'm sorry to ____ you, but could you give me a hand?","ご迷惑をおかけしてすみませんが,手を貸していただけないでしょうか.",bother
 368,Don't ____ ____ giftwrap it.,わざわざ包装しなくて構いません.,bother to
 368,find it a ____ to go out in the rain,"雨の中,外出するのは面倒だと思う",bother
-369,Don't ____ other peopie.,ほかの人に迷惑をかけないようにしなさい。,disturb
+369,Don't ____ other people.,ほかの人に迷惑をかけないようにしなさい。,disturb
 369,____ my sleep [concentration],睡眠[集中]を妨げる,disturb
 370,I ____ ____ ____ spiders.,クモがこわい(クモに怯えさせられる).,am frightened of
 371,I ____ ____ I did not study[× should have studied] hard in my teens.,10代のころ一生懸命勉強しなかったことを後悔している.,regret that
@@ -837,7 +837,7 @@ id,sentence,japanese,answer
 375,The report is ____ on Monday.,報告書は月曜日が締め切りだ.,due
 375,The train ____ ____ ____ arrive at 9:00.,電車は9時に到着予定です。,is due to
 376,agree with his opinion ____ ____ ____ ____,次の理由で彼の意見に賛成だ,for the following reasons
-376,____ and emotian,理性と感情,reason
+376,____ and emotion,理性と感情,reason
 376,He ____ ____ he must have left his bag on the bus.,彼はかばんをバスの中に忘れてきたに違いないと推論した.,reasoned that
 376,have the ability to ____,(論理的に)思考する力がある,reason
 377,____ ____ ____ ____ inflation,インフレの結果として,as a result of
@@ -851,7 +851,7 @@ id,sentence,japanese,answer
 380,a ____ to an ____,目的のための手段,means end
 381,____ trouble,面倒を引き起こす,cause
 381,the root ____ of the war,その戦争の根源的な原因,the cause of
-382,Lack of sieep ____ ____ your performance at work.,睡眠不足は仕事（の出来栄え）に悪影響を及ぼす,seriously affects
+382,Lack of sleep ____ ____ your performance at work.,睡眠不足は仕事（の出来栄え）に悪影響を及ぼす,seriously affects
 383,my ____ of studying,私の勉強の仕方,way
 383,We differ ____ this ____.,"この点で私たちは異なる,",in way
 383,____ ____ ____ ____ ____ Tokyo,はるばる(長い道を)東京まで行く,go all the way to
@@ -884,8 +884,8 @@ id,sentence,japanese,answer
 395,Land prices are ____ ____.,土地の値段が徐々に上がっている。,gradually increasing
 396,"Even experts are only human, ____ ____ mistakes sometimes occur.","専門家でもただの人間だ、それゆえミスが時々起きる,",and therefore
 397,"If you can't make it, your mother may go ____.","もし君が行けないのなら,君のお母さんが代わりに行ってもよい.",instead
-397,take the stairs ____ ____ the elevator,エレペーターの代わりに階段を使う,instead of
-398,We are open ____ p.m. on weekdays.,平日は午後 時まで営業しています,until
+397,take the stairs ____ ____ the elevator,エレベーターの代わりに階段を使う,instead of
+398,We are open ____ p.m. on weekdays.,平日は午後11時まで営業しています,until
 398,Stay here ____ I get back.,私が戻るまでここにいて.,until
 399,learn another foreign language ____ English,英語以外の(英語に加えて)外国語を勉強する,besides
 399,"It's too late to go out; ____, it's snowing.","外出するには遅すぎるし,おまけに,雪が降っている.",besides
@@ -896,8 +896,8 @@ id,sentence,japanese,answer
 402,Stop ____ my cooking!,私の料理を批判するのをやめて、,criticizing
 403,____ her ____[× for] lying,うそをついたことで彼女を非難する,accuse of
 403,____ him ____ murder,殺人で彼を告訴する,accuse of
-404,____ ____ retu ning home,家に帰ると言い張る,insist on
-404,I ____ ____ she wait.,私は波女が待つように求めた.,insisted that
+404,____ ____ returning home,家に帰ると言い張る,insist on
+404,I ____ ____ she wait.,私は彼女が待つように求めた.,insisted that
 405,____  ____ my studying abroad,私の留学に反対する,object to
 405,a solid ____,硬い物,object
 405,The ____ ____ this game is to develop children's vocabulary.,このゲームの目的は子どもの語彙を増やすことだ.,object of
@@ -913,7 +913,7 @@ id,sentence,japanese,answer
 410,supply and ____(*語順に注意.),需要と供給,demand
 411,____ a strong ____ ____ study in the U.K.,イギリスに留学したいという強い願望をもつ,have desire to
 411,____ ____ marry her,彼女と結婚したいと強く望む,desire to
-412,____ the man ____ his diligence,その男の勤勉さを(その男性を動勉さで)褒める,praise for
+412,____ the man ____ his diligence,その男の勤勉さを(その男性を勤勉さで)褒める,praise for
 412,His novel won high ____.,"彼の小説は絶賛された(高い賞賛を得た),",praise
 413,It's ____ ____ ____ be here.,お招き頂きありがとうございます(ここにいることは名誉です).,an honor to
 413,____ my parents,両親を敬う,honor
@@ -944,7 +944,7 @@ id,sentence,japanese,answer
 426,publish a new ____,新しい学説を発表する,theory
 427,handwriting ____,筆跡鑑定(分析),analysis
 428,____ ____,自然現象,natural phenomena
-428,a child ____,神童(並外れて優考な子どものこと）,phenomenon
+428,a child ____,神童(並外れて優秀な子どものこと）,phenomenon
 429,a drone with a GPS ____,GPS 装置を搭載したドローン,device
 430,____ ____ ____ chemical ____,化学の実験をする,carry out a experiment
 430,____ ____ a new medicine,新薬で実験する,experiment with
@@ -964,10 +964,10 @@ id,sentence,japanese,answer
 439,____ my life ____ helping others,人助けに人生をささげる,devote to
 440,____ ____ cut costs,経費削減に努力する,strive to
 441,____ ____ finish by Wednesday,水曜日までに終わらせるつもりだ,aim to
-441,This book ____ ____ ____ teenagers.,"この本は10代の若者向けてす,",is aimed at
+441,This book ____ ____ ____ teenagers.,"この本は10代の若者向けです,",is aimed at
 441,the ____ of this course,この講座の狙い,aim
 442,face a big ____,大きな課題に直面する,challenge
-442,____ the decision,その決定に異讓を唱える,challenge
+442,____ the decision,その決定に異議を唱える,challenge
 443,____ ____ ____ ____,試行錯誤で,by trial and error
 443,____ ____ ____ murder,殺人罪で裁判を受ける,stand trial for
 443,go through a bitter ____,苦しい試練を受ける,trial
@@ -1030,14 +1030,14 @@ id,sentence,japanese,answer
 472,____ ____ ____,アメリカ南北戦争（国内の戦争）,the Civil War
 472,She is ____ but not friendly.,彼女は礼儀正しいが友好的ではない．,civil
 473,____ ____,人種差別,racial discrimination
-474,show an interest in a ____ lifestyle,田舎幕らしに興味を示す,rural
+474,show an interest in a ____ lifestyle,田舎暮らしに興味を示す,rural
 475,a ____ flight,(飛行機の)国内線,domestic
 475,____ violence [DV],家庭内暴力,domestic
 476,____ climate change,世界的な気候変動,global
 477,live ____ ____ ____ of Yokohama City(* in a suburb of ～も可. ),横浜市の郊外に住む,in the suburbs
 478,cross the ____,国境を越える,border
 478,The street is ____ by trees.,その通りは両側に木が植えてある(木で緑取りされている).,bordered
-479,take on a financial burden,財政的な負担を負う,
+479,take on a financial ____,財政的な負担を負う,burden
 480,have a negative ____ ____ the tourist industry,観光業にマイナスの影響を与える,impact on
 480,the ____ of the explosion,爆発の衝撃,impact
 480,This strategy ____ ____ sales.,この戦略が売り上げに影響を与えた.,impacted on
@@ -1078,10 +1078,10 @@ id,sentence,japanese,answer
 497,the Polish ____ in the U.K.,イギリスのポーランド人社会,community
 498,____ ____'s right to privacy,各個人のプライバシーの権利,each individual
 498,____ action (⇔ group action),個人行動(⇔団体行動),individual
-499,a ____ ____,政府の役人,govemment official
+499,a ____ ____,政府の役人,government official
 499,an ____ ____,公用語(公式の言語),official language
 500,____ ____ India,インドからの移民,immigrants from
-501,take part in ____ activities,ポランティア活動に参加する,volunteer
+501,take part in ____ activities,ボランティア活動に参加する,volunteer
 501,____ ____ do the dishes,皿洗いを自発的に申し出る,volunteer to
 502,____ ____ ____ other students,ほかの生徒とうまく付き合う,interact well with
 503,____ ____ world peace,世界平和に貢献する,contribute to
@@ -1089,7 +1089,7 @@ id,sentence,japanese,answer
 503,____ a great deal of money ____ the church,教会に多額の寄付をする(多額の金を寄付する),contribute to
 504,____ capital punishment,死刑制度を廃止する,abolish
 505,The government should ____ ____ total ____ ____ cigarette advertising.,政府はたばこの広告を全面禁止すべきだ(禁止を課すべきだ).,impose a ban on
-506,____ free ____ ____ a computer,コンビュータを自由に利用できる(利用する権利を持つ),have access to
+506,____ free ____ ____ a computer,コンピュータを自由に利用できる(利用する権利を持つ),have access to
 506,____ ____ the restrooms,トイレへの行き方,access to
 507,____ my ____,義務を果たす,fulfill duties
 507,a 6 percent ____ on imports,輸入品に対する6%の関税,duty
@@ -1106,7 +1106,7 @@ id,sentence,japanese,answer
 513,"The restaurant's daily  is____ about ＄1,000.","そのレストランの1日の利益はおよそ1,000 ドルだ.",profit
 514,pay ____ ____ my income,収入に課された税金を払う,taxes on
 515,This money will  all ____ your ____,このお金があなたのすべての費用をまかなうだろう.,cover expenses.
-515,____ ____ ____ of my health,健康を犠性にして,at the expense
+515,____ ____ ____ of my health,健康を犠牲にして,at the expense
 516,____ ____ a ____ of 100 dollars,100 ドルの借金を返す,pay back debt
 517,have a large ____ in the bank,銀行に多額の預金がある,deposit
 517,pay a ____ on a house,家の手付金を払う,deposit
@@ -1143,7 +1143,7 @@ id,sentence,japanese,answer
 530,____ ____ ____ the head office,本店に配属される,be assigned to
 531,"my name, address, and ____","氏名,住所,職業",occupation
 531,be under ____,占領下にある,occupation
-532,fstart a ____ ____ a doctor,医者として働き始める(職業を始める),career as
+532,start a ____ ____ a doctor,医者として働き始める(職業を始める),career as
 532,during her long ____ ____ a teacher,彼女の長い教員生活(教員としての長い経歴)の間に,career as
 533,____ the legal ____,法律関係の仕事に就く,enter profession
 533,medical ____,医療従事者,the profession
@@ -1159,7 +1159,7 @@ id,sentence,japanese,answer
 537,Don't break ____ ____ the trees.,木の枝を折ってはいけません、,branches off
 538,a recommended ____ ____,希望小売価格,retail price
 538,"The vinegar ____ at 1,000 yen a bottle.","その酢の小売価格は1本千円だ(1本千円で小売りされている),",retails
-539,a c____ ____ work,会社の同僚,olleague from
+539,a c____ ____ work,会社の同僚,colleague from
 540,the tax ____,税制,system
 540,the solar ____,太陽系,system
 541,a wooden ____,木造建造物(木の構造),structure
@@ -1187,7 +1187,7 @@ id,sentence,japanese,answer
 552,____ the printer ____ my PC,パソコンにプリンターを接続する,connect to
 552,Exercise is closely ____ with your health.,運動は健康に密接に関わっている.,connected
 552,____ ____ the internet,インターネットに接続する,connect to
-553,These two events are ____ ____.,これらつの出来事は密接に関連している.,closely related
+553,These two events are ____ ____.,これら2つの出来事は密接に関連している.,closely related
 553,____ my adventures,冒険談を語る,relate
 553,cannot ____ ____ his way of thinking,彼の考え方が理解できない,relate to
 554,____ brand names ____ high quality,ブランド名から高品質を連想する,associate with
@@ -1251,7 +1251,7 @@ id,sentence,japanese,answer
 585,The ice cream quickly ____.,アイスクリームがすぐに溶けてしまった.,melted
 585,____ the butter,バターを溶かす,melt
 586,____ (to work) by train,電車を使って通勤する,commute
-586,My ____ takes around one hour.,通勤には時間くらいかかります.,commute
+586,My ____ takes around one hour.,通勤には1時間くらいかかります.,commute
 587,____ my boss to Germany,上司に同行してドイツに行く,accompany
 587,A cold is often ____ ____ a fever.,かぜはしばしば熱を伴う.,accompanied by
 588,____ greenhouse gas,温室効果ガスを排出する,emit
@@ -1291,7 +1291,7 @@ id,sentence,japanese,answer
 606,____ the team's morale,チームの士気を高める,boost
 607,Water ____ when it freezes.,水は凍ると膨張する.,expands
 607,____ my business,ビジネスを拡張する,expand
-608,____ the ____ ____ one week,締め切りを1週問延ばす,extend deadline by
+608,____ the ____ ____ one week,締め切りを1週間延ばす,extend deadline by
 608,The meeting ____ over five hours.,その会議は5時間にも及んだ.,extended
 609,Travel ____ your horizons.,旅は視野を広げてくれる.,broadens
 609,"After studying in New Zealand, my outlook on life has ____.",ニュージーランドに留学して自分の世界(人生観)が広がった.,broadened
@@ -1350,7 +1350,7 @@ id,sentence,japanese,answer
 632,____ ____ in class,授業中にうたた寝する,nod off
 632,____ ____ slight ____,軽くうなずく,give a nod
 633,"He ____ saying, ""You win.""",「降参」と言って彼はため息をついた.,sighed
-633,with ____ ____ ____ ____,ほっと安増のため息をついて,a sigh of relief
+633,with ____ ____ ____ ____,ほっと安堵のため息をついて,a sigh of relief
 634,stretch and ____ loudly,伸びをして大きな声であくびをする,yawn
 634,____ ____ a ____,あくびをこらえる,hold back yawn
 635,Cover your mouth when you ____.,くしゃみをするときには口を覆いなさい,sneeze
@@ -1418,7 +1418,7 @@ id,sentence,japanese,answer
 663,____ ____ ____ child-rearing,子育てに参加する,be involved in
 663,Traveling abroad may ____ danger.,海外旅行は危険を伴うかもしれない。,involve
 664,This job ____ many year's experience.,この仕事には長年の経験が必要だ。,requires
-665,The Japanese oficials discussed the issue with ____ French ____.,日本政府高官はフランス政府の高官（対応する人々）とその問題について話し合った。,their counterparts
+665,The Japanese officials discussed the issue with ____ French ____.,日本政府高官はフランス政府の高官（対応する人々）とその問題について話し合った。,their counterparts
 666,____ ____ ____ new technology,新技術の到来,the advent of
 666,____ ____ season,降臨節,the Advent
 667,____ a proper work-life balance,適切なワークライフバランスを維持する,maintain
@@ -1472,7 +1472,7 @@ id,sentence,japanese,answer
 691,I ____ ____ ____ the fact that it was an important meeting.,それが重要な会議であるということを意識していた。,was conscious of
 691,He was still ____ when we arrived.,私たちが到着したとき，彼はまだ意識があった。,conscious
 692,The professor ____ ____ ____ environmental problems.,その教授は環境問題に関心を持っている。,is concerned with
-692,His book ____ ____ ____ environmental ploblems.,彼の本は環境問題を扱っている。,is concerned with
+692,His book ____ ____ ____ environmental problems.,彼の本は環境問題を扱っている。,is concerned with
 692,____ ____ ____ her safety,彼女の安全を懸念する,be concerned about
 693,Zack was born in the U.S. but he ____ Japan ____ his home.,ザックはアメリカ生まれだが，日本を故郷だと思っている。,regards as
 693,be ____ ____ as a singer,歌手として高く評価されている,highly regarded
@@ -1517,7 +1517,7 @@ id,sentence,japanese,answer
 712,The sun appeared ____ ____ ____.,太陽が水平線上に現れた.,on the horizon
 712,Traveling ____ ____ ____.,旅は視野を広げる.,broadens your horizons
 713,____ ____ ____,オゾン層,the ozone layer
-714,grganic ____,有機農業,agriculture
+714,organic ____,有機農業,agriculture
 715,the main ____ in this area,この地域の主要な農産物,crops
 715,this region's rice ____,この地域の米の収穫(高),crop
 715,A new problem ____ ____.,新たな問題が突然生じた.,cropped up
@@ -1570,7 +1570,7 @@ id,sentence,japanese,answer
 748,make a ____ ____,ひたむきな(誠実な)努力をする,sincere effort
 748,express my ____ thanks,心からの感謝を表現する,sincere
 749,Paul ____ ____ ____ his success.,"ポールは成功を鼻にかけない,",is modest about
-749,a ____ house with a small garde,小さな庭つきの質素な家(*謙遜して),modest
+749,a ____ house with a small garden,小さな庭つきの質素な家(*謙遜して),modest
 750,make a ____ mistake,ばかな間違いをする,stupid
 751,Rick ____ ____ ____ politics.,リックは政治に無関心だ.,is indifferent to
 752,Japanese trains are extremely ____.,日本の列車は非常に時間に正確だ.,punctual
@@ -1630,7 +1630,7 @@ id,sentence,japanese,answer
 786,a ____ description,曖昧な説明,vague
 787,"Steve is a little ____, isn't he?",スティーブってちょっと変だよね.,weird
 788,a ____ road,でこぼこの道,rough
-788,a ____ idea of the plan,その計画の概略おおまかな考え),rough
+788,a ____ idea of the plan,その計画の概略（おおまかな考え),rough
 788,____ weather,荒れた天候,rough
 789,____ criticism,厳しい批判,severe
 789,a ____ injury,ひどいけが,severe
@@ -1662,7 +1662,7 @@ id,sentence,japanese,answer
 802,an ____ of this paper,この論文の要旨,abstract
 803,____ climbing boots,新品の登山靴,brand-new
 804,buy ____ ____ cheaply,古着を安く買う,secondhand clothes
-804,____ ____,又間きのニュース,secondhand news
+804,____ ____,又聞きのニュース,secondhand news
 805,____ economic growth,急速な経済成長,rapid
 805,shoot the ____ in our canoe,急流をカヌーで下る,rapids
 806,There is ____ ____ ____ for more nursery schools.,もっと多くの保育所が緊急に必要だ(もっと多くの保育所に対する緊急の必要性がある).,an urgent need
@@ -1724,7 +1724,7 @@ id,sentence,japanese,answer
 833,His waist ____ over a meter.,彼のウエストは1メートルを超えている(寸法がある).,measures
 833,____ drastic ____ ____ pass the bill,法案を通すために強硬手段に出る,take measures to
 834,Educational standards are ____.,教育水準が下がっている.,declining
-834,____ his invitation to dinner,彼のタ食の誘いを断る,decline
+834,____ his invitation to dinner,彼の夕食の誘いを断る,decline
 834,a ____ ____ in unemployment,失業率の急激な減少,sharp decline
 835,Let's ____ ____ ____.,割り勘にしよう(勘定を割る).,split the bill
 835,The issue ____ the church.,その問題は教会を分裂させた.,split
@@ -1835,7 +1835,7 @@ id,sentence,japanese,answer
 883,____ ____ ____ ____ roast beef,大盛りのローストビーフ,a large portion of
 883,eat two ____ of spaghetti,スパゲッティを２人前食べる,portions
 883,a ____ of his income,彼の収入の一部,portion
-884,"ccok, clean, and ____ ____ ____",料理、掃除、洗濯をする,do the laundry
+884,"cook, clean, and ____ ____ ____",料理、掃除、洗濯をする,do the laundry
 884,____ ____ ____ ____,洗濯物を取り込む,bring the laundry in
 884,a coin(-operated) ____,コインランドリー,laundry
 885,I'll just ____ a little ____.,ちょっと昼寝をします。,take nap
@@ -1892,7 +1892,7 @@ id,sentence,japanese,answer
 909,I am scared of ____.,私は高所恐怖症です。,heights
 909,____ ____ ____ ____ the tourist season,観光シーズンの最盛期に,at the height of
 910,a ____[×far] island,速い鳥,distant
-911,"New Mexico ____ ____ 2,240 meters above sea level.","ニューメキシコは海峡2,240メートルの位置にある。",is located
+911,"New Mexico ____ ____ 2,240 meters above sea level.","ニューメキシコは海抜2,240メートルの位置にある。",is located
 911,____ the restaurant on the map,地図でレストランの場所を見つける,locate
 912,____ two seats on the train,電車で２つの席を占有する,occupy
 913,a mansion ____ ____ red brick walls,赤れんがの塀に囲まれたお屋敷,surrounded by
@@ -1918,7 +1918,7 @@ id,sentence,japanese,answer
 926,He speaks ____ Spanish.(=He ____ ____ ____ Spanish.),彼はスペイン語が流暢だ.,fluent is fluent in
 927,____ a sentence literally,文を直訳する(文字どおりに文を訳す),translate
 927,Anger can ____ ____ violence.,怒りは暴力に変わり得る.,translate into
-928,Obesity is ____ ____ a BMI of 30 or above. (*BMI=body mass index「体格指数」),肥満はBMI0 以上と定義されている.,defined as
+928,Obesity is ____ ____ a BMI of 30 or above. (*BMI=body mass index「体格指数」),肥満はBMI30以上と定義されている.,defined as
 928,____ our duties,私たちの任務を規定する,define
 929,____ his silence ____ a refusal,彼の沈黙を拒否と解釈する,interpret as
 929,____ foreign languages,外国語を通訳する,interpret
@@ -2017,7 +2017,7 @@ id,sentence,japanese,answer
 987,get moderate ____,適度な運動をする,exercise
 988,feel ____ sad,いくぶん悲しい気分だ,somewhat
 989,a ____ difference in meaning,かすかな意味の違い,subtle
-990,"It will take two weeks, ____ longer.","週間,ひよっとしたらそれ以上かかるかもしれない.",possibly
+990,"It will take two weeks, ____ longer.","週間,ひょっとしたらそれ以上かかるかもしれない.",possibly
 990,I cannot ____ solve this problem.,この問題がどうしても解けない.,possibly
 991,"After changing jobs many times, I ____ found a job in a bank.","何度も転職を繰り返したあと,最終的に,銀行に就職しました.",eventually
 992,Rich people are not ____ happy.,金持ちが必ずしも幸せとは限らない.,necessarily
@@ -2041,7 +2041,7 @@ id,sentence,japanese,answer
 1003,(God)____ you!,お大事に(神があなたを祝福しますように),bless
 1004,his ____ days as a college basketball star,大学バスケットボールのスター選手としての彼の栄光の日々,glory
 1005,____ ____ his shoes,彼の靴への誉め言葉,compliments on
-1005,____ her ____ her new hairstayle,新しい髪形について、彼女を褒める,compliment on
+1005,____ her ____ her new hairstyle,新しい髪形について、彼女を褒める,compliment on
 1006,the wedding ____,結婚式の宴席,feast
 1006,This movie festival is a ____ ____ cinema-goers.,この映画祭は映画好きにはたまらない。,feast for
 1007,He ____ that he was innocent.,彼は無実だとはっきり述べた。,declared
@@ -2061,11 +2061,11 @@ id,sentence,japanese,answer
 1016,"""Duty-free"" is a ____ word.",「免税の」は複合語だ。,compound
 1017,nerve ____,神経組織,tissue
 1017,take a ____[×tissue paper],ティッシュペーパーを取る,tissue
-1018,remove the cencerous ____,がん細胞を除去する,cells
+1018,remove the cancerous ____,がん細胞を除去する,cells
 1018,a fuel ____,燃料電池,cell
 1018,spend a week in a ____,独房で一週間過ごす,cell
 1019,the ____ for black hair,黒い髪の遺伝子,gene
-1020,a cencer-causing ____,発がん性物質,substance
+1020,a cancer-causing ____,発がん性物質,substance
 1020,a rumor with no ____,根拠のないうわさ,substance
 1021,____ fuel,固形燃料,solid
 1021,____ gold,純金(ぎっしり詰まった金),solid
@@ -2190,7 +2190,7 @@ id,sentence,japanese,answer
 1095,intellectual ____,知的財産,property
 1095,the ____ of dissolving in water,水に溶ける特性,property
 1095,a fence marking the ____'s boundaries,所有地の境界を示す柵,property
-1096,manage ____ effetively,資金を有効に活用する,funds
+1096,manage ____ effectively,資金を有効に活用する,funds
 1096,the International Monetary ____(IMF),国際通貨基金,Fund
 1096,The museum ____ ____ by local people.,その博物館は地元民が資金を出し合って(運営して)いる。,is funded
 1097,make money ____ ____ ____ ____,株(式市場)でもうける,on the stock market
@@ -2263,7 +2263,7 @@ id,sentence,japanese,answer
 1131,He ____ ____ ____ the news of her death.,彼は彼女の死の知らせに打ちのめされた.,was devastated by
 1132,____ ____ the barrier,ガードレールに激突する,crash into
 1132,The plane ____ and caught fire.,"その飛行機は墜落し,炎上した.",crashed
-1132,the site of the plane ____,飛行機の鹽落現場,crash
+1132,the site of the plane ____,飛行機の墜落現場,crash
 1133,Steep stairs can be a ____ ____ elderly people.,急な階段は高齢者にとって危険(なもの)になり得る.,hazard for
 1134,clear space ____,宇宙ゴミを片付ける,debris
 1135,a war ____,戦争孤児,orphan
@@ -2278,7 +2278,7 @@ id,sentence,japanese,answer
 1140,passengers and ____ on the plane,飛行機の乗客と乗組員,crew
 1140,a camera ____,テレビカメラ班,crew
 1141,Police ____ the stolen car.,警察はその盗難車を追いかけた。,chased
-1141,"After a long ____, I finally caught the theif.",長い追跡の末、私はようやくその泥棒を捕まえた。,chase
+1141,"After a long ____, I finally caught the thief.",長い追跡の末、私はようやくその泥棒を捕まえた。,chase
 1142,"First, please ____ to Gate 3.",まず、三番ゲートへお進みください。,proceed
 1142,He took off his jacket and ____ ____ untie his shoelaces.,彼は上着を脱ぎ、さらに靴ひもをゆるめた。,proceeded to
 1143,Childhood memories ____ as time passes.,時が過ぎるとともに子どものころの記憶は薄れる。,fade
@@ -2305,7 +2305,7 @@ id,sentence,japanese,answer
 1155,____ his theory,彼の理論を裏付ける,confirm
 1156,Please ____ ____ you leave[×will leave] nothing behind.,忘れ物をしないように気を付け(確実にし)てください。,ensure that
 1157,____ an environmental problem,環境問題に取り組む,address
-1157,____ tha nation,国民に呼びかける,address
+1157,____ the nation,国民に呼びかける,address
 1157,an opening ____,開会の辞(演説),address
 1157,the sender's ____,差出人の住所,address
 1158,a new ____ ____ teaching languages,言語教育への新たな取り組み方,approach to
@@ -2313,7 +2313,7 @@ id,sentence,japanese,answer
 1159,____ the problem on my own,自分でその問題を解決する,resolve
 1159,"After his divorce, he ____ ____ remain single for the rest of his life.",彼は離婚後、一生独身でいる決意をした。,resolved to
 1160,____ the dispute,その紛争を解決する,settle
-1160,____ a bag on my sholder,バッグを肩にかける(置く),settle
+1160,____ a bag on my shoulder,バッグを肩にかける(置く),settle
 1160,____ (down) in Brazil,ブラジルに定住する,settle
 1160,____ ____ a name for our new dog,私たちの新しい犬の名前を決める,settle on
 1161,____ the soil,その土壌を豊かにする,enrich
@@ -2329,11 +2329,11 @@ id,sentence,japanese,answer
 1166,by[in] ____ and bounds,飛躍的に,leaps
 1167,____ him by the neck,彼の首根っこをつかむ,grab
 1167,____ a hamburger for lunch,昼食にハンバーガーをさっさと食べる,grab
-1168,____ her by the sholder,彼女の肩をつかむ,seize
+1168,____ her by the shoulder,彼女の肩をつかむ,seize
 1168,____ drugs,麻薬を押収する,seize
 1169,____ a net around a school of tuna,マグロの群れに網を投げ入れる,cast
 1169,____ a new light on the problem,その問題に新たな光を投げかける,cast
-1169,____ him in the part of Romeo,彼に口ミオの役を与える,cast
+1169,____ him in the part of Romeo,彼にロミオの役を与える,cast
 1170,____ him with a blow,殴って彼を気絶させる,stun
 1170,____ ____ ____[by] the news,その知らせを聞いてぼう然とする,be stunned at
 1171,a beautifully ____ castle,美しく照らされた城,illuminated
@@ -2457,7 +2457,7 @@ id,sentence,japanese,answer
 1245,Rabbits ____ all year round.,ウサギは年中繁殖する。,breed
 1245,____ sheep for the market,出荷用にヒツジを繁殖させる,breed
 1245,Poverty ____ terrorism.,貧困がテロを生み出す。,breeds
-1245,Shibainu is my favorite ____.,柴犬は私の好きな血続だ.,breed
+1245,Shibainu is my favorite ____.,柴犬は私の好きな血統だ.,breed
 1246,The virus can ____ rapidly.,ウイルスは急速に繁殖する。,reproduce
 1246,____ bacteria,バクテリアを繁殖させる,reproduce
 1246,permission to ____ the cartoon,そのマンガを転載する許可,reproduce
@@ -2555,7 +2555,7 @@ id,sentence,japanese,answer
 1306,"This will cost ____ ____ ____ 1,000 dollars.","これは最大で1,000ドルかかります。",a maximum of
 1307,____ ____ ____ flowers,花束,a bunch of
 1308,____ the risk of human error,人為的ミスのリスクを軽減する,lesson
-1309,the dawn of a ner ____,新たな時代の幕開け,era
+1309,the dawn of a new ____,新たな時代の幕開け,era
 1310,have a Q&A ____,質疑応答の時間をとる,session
 1310,during the Diet ____,国会会期中に,session
 1310,a recording ____,レコーディング(のための集まり),session
@@ -2618,7 +2618,7 @@ id,sentence,japanese,answer
 1348,"The meaning of ""charge"" depends on the ____.","“charge”の意味は文脈によって決まる,",context
 1348,look at the issue ____ a historical ____,"歴史的状況に照らして,その問題を考える",in context
 1349,a ____ form,単数形,singular
-1349,the ____ beauty of sunset,タ日の比類なき美しさ,singular
+1349,the ____ beauty of sunset,夕日の比類なき美しさ,singular
 1349,a ____ design,奇妙なデザイン,singular
 1350,have a good ____ of Chinese,中国語が達者だ(操る力がある),command
 1350,give the ____ to attack,攻撃命令を出す,command
@@ -2703,7 +2703,7 @@ id,sentence,japanese,answer
 1395,Edgar ____ smiled.,エドガーはほほえむだけだった(単にほほえんだ).,merely
 1396,It was snowing; ____ we continued to work in the fields.,"雪が降っていた、それにもかかわらず,私たちは畑仕事をし続けた.",nevertheless
 1397,escape from the box ____,何らかの方法でその箱から脱出する,somehow
-1397,She looked different ____.,ういうわけか彼女は違って見えた.,somehow
+1397,She looked different ____.,どういうわけか彼女は違って見えた.,somehow
 1398,This problem is very simple and ____ easy to solve.,"この問題はとても単純なので,それゆえ,解くのは簡単だ.",thus
 1398,She began ____.,彼女はこのように切り出した.,thus
 1399,"____, he apologized.","その後,彼は謝罪した.",Afterwards
@@ -2715,7 +2715,7 @@ id,sentence,japanese,answer
 1402,His behavior ____ understanding.,彼の行動は理解不可能だった(理解を拒んだ).,defied
 1403,____ racial discrimination,人種差別を非難する,condemn
 1403,____ ____ ____ death,死刑判決が下される,be condemned to
-1403,____ ____ ____ a life of poverty,質乏生活を強いられる,be condemned to
+1403,____ ____ ____ a life of poverty,貧乏生活を強いられる,be condemned to
 1404,____ the example of Sweden,スウェーデンの例を引き合いに出す,cite
 1405,use several examples to ____ my point,私の主張を説明するためにいくつかの例を用いる,illustrate
 1405,____ ____ calendar,挿絵入りのカレンダー,an illustrated
@@ -2749,14 +2749,14 @@ id,sentence,japanese,answer
 1424,despite my best ____,最大の努力にもかかわらず,endeavors
 1424,____ ____ please our customers,客を満足させようと努力する,endeavor to
 1425,Dodoes were ____ ____ extinction.,ドードー鳥は絶滅の運命にあった.,doomed to
-1426,____ computer parts,コンビュータ部品を製造する,manufacture
+1426,____ computer parts,コンピュータ部品を製造する,manufacture
 1426,arms ____ in Israel,イスラエルにおける武器の製造,manufacture
 1427,____ a large profit,大きな利益を生む,yield
 1427,____ ____ her demand,彼女の要求に屈する,yield to
 1427,a large ____ of rice,米の豊作(大きい産出量),yield
 1428,____ a document,書類を複製する,duplicate
 1428,a ____ of the document,書類の複製,duplicate
-1428,a ____ key,合い(複裂の)かぎ,duplicate
+1428,a ____ key,合い(複製の)かぎ,duplicate
 1429,____ thousands of cars,何千台もの車を組み立てる,assemble
 1429,All the students ____ in the gym.,全校生徒が体育館に集まった。,assembled
 1430,____ a chocolate bar,板チョコを作る,mold
@@ -2776,7 +2776,7 @@ id,sentence,japanese,answer
 1440,The government ____ ____ ____ scandals.,政府はスキャンダルに苦しめられていた。,was plagued by
 1441,His face was gray with ____.,疲労のため、彼の顔は蒼白だった。,fatigue
 1442,receive a medical ____,医師の診断を受ける,diagnosis
-1443,the infact ____ ____,幼児死亡率,mortality rate
+1443,the infant ____ ____,幼児死亡率,mortality rate
 1443,We all have to face our ____.,私たちはみんな死すべき運命に直面しなければならない。,mortality
 1444,round-the-clock ____ ____,24時間体制の看護,nursing care
 1445,____ back pain,慢性の腰痛,chronic
@@ -2823,7 +2823,7 @@ id,sentence,japanese,answer
 1472,a ____ army,反乱軍,rebel
 1472,____ ____ my parents,親に反抗する,rebel against
 1473,a clever marketing ____,巧妙なマーケティング計画,scheme
-1473,a devilish ____ to chert people,人々をだます悪魔のような陰謀,scheme
+1473,a devilish ____ to cheat people,人々をだます悪魔のような陰謀,scheme
 1474,a ____ for anime fans,アニメファンの大会,convention
 1474,social ____,社会の慣習,conventions
 1474,the Geneva ____,ジュネーブ条約,Convention
@@ -2856,7 +2856,7 @@ id,sentence,japanese,answer
 1490,____ more than 20 inventions,20を越える発明品の特許をとる,patent
 1490,a ____ lie,見えすいたうそ,patent
 1491,a ____ society,原始社会(原始的な社会),primitive
-1492,____ minorties,少数民族(民族的な少数派),ethnic
+1492,____ minorities,少数民族(民族的な少数派),ethnic
 1493,receive an ____ tip,匿名の情報を受け取る,anonymous
 1494,live in the Tokyo ____ area,首都圏(東京という大都市の地域)に住む,metropolitan
 1495,She ____ ____ ____ (receive) a pension.,彼女は年金をもらう権利がある。,is entitled to
@@ -3019,381 +3019,381 @@ id,sentence,japanese,answer
 1598,_____ the aging process,老化を早める,accelerate
 1599,Stock prices are _____ wildly.,株価は乱高下している（激しく変動している）。,fluctuating
 1600,____ a historical fact,史実を歪める,distort
-435,The wall _____ in several places.,壁はいくつかの場所でひび割れていた。,cracked
-,A shot _____ across the ridge.,1発の銃声が尾根に鳴り響いた。,cracked
-,_____ two eggs into the frying pan,2つの卵を割ってフライパンに入れる,crack
-,_____ in a cup,カップのひび,cracks
-,seasonal _____,季節の移り変わり,transitions
-,This new marketing approach will be a _____.,この新しいマーケティング手法は革命をもたらすだろう。,game-changer
-,_____ the elbows of a jacket with patches,当て布で上着のひじを補強する,reinforce
-,_____ good community relationships,地域のよい関係を育てる,foster
-,_____ an orphan,孤児の里親になる,foster
-,a _____ parent,里親,foster
-,experience a family _____,家庭の崩壊を経験する,breakdown
-,a system _____,システム故障,breakdown
-,suffer a nervous _____,神経衰弱（ノイローゼ）を患う,breakdown
-,_____ under the weight of the snow,雪の重みで倒壊する,collapse
-,the _____ of the Berlin Wall,ベルリンの壁の崩壊,collapse
-,His remark _____ her speechless.,彼の発言に彼女は言葉を失った。,rendered
-,_____ assistance,援助する（援助を与える）,render
-,Alcohol _____ your ability to think.,アルコールは思考力を低下させる。,impairs
-,_____ Japan's social welfare system,日本の社会福祉制度を揺るがす,undermine
-437,I am having trouble _____ with the huge amount of work...,やらなければならない膨大な量の仕事に対処するのに苦労している。,coping
-,_____ the unemployment problem,失業問題に取り組む,tackle
-,_____ the old apartment building,その古いアパートを取り壊す,demolish
-,We were _____ to a small room.,私たちは小部屋に閉じ込められた。,confined
-,be _____ to a wheelchair after the accident,事故の後、車いす生活を余儀なくされる,confined
-,a _____ smoking area,指定された喫煙場所,designated
-,_____ air pollution,大気汚染を規制する,regulate
-,a hormone that _____ metabolism,新陳代謝を調整するホルモン,regulates
-,Please _____ from smoking.,たばこはお控えください。,refrain
-,We are _____ from holding second jobs.,私たちは副業を禁止されている。,prohibited
-,_____ the hunting of whales,捕鯨を止める,halt
-,"""_____!"" said the soldier.",「止まれ！」と兵士は言った。,Halt
-,The train came to a _____.,列車が停止した。,halt
-,the _____ of prison life,刑務所暮らしの制約,constraints
-439,Light _____ plant growth.,光に刺激されて植物は育つ（光が植物の成長を刺激する）。,stimulates
-,_____ the discussion,議論を活気づける,animate
-,an _____ Disney film,ディズニーのアニメ映画（アニメ化された映画）,animated
-,_____ economic growth,経済成長を促す,spur
-,on the _____ of the moment,その場の勢いで,spur
-,_____ him to rest,彼に休むよう強く勧める,urge
-,have an _____ to eat some fish,魚が食べたくて仕方ない（魚を食べたい衝動を持つ）,urge
-,feel _____ to resign because of the scandal,スキャンダルのため辞職せざるを得ない（辞職を強いられている）と感じる,compelled
-,Tears _____ my vision.,涙で視界がぼやけた。,blurred
-,My vision has _____.,視界がぼやけた。,blurred
-,_____ the course of a stream,川の流れを変える,divert
-,_____ his attention,彼の注意をそらす,divert
-,_____ the decision,その決定を覆す,reverse
-,The _____ is the case.,その逆が正しい。,reverse
-,in _____ order,逆の順番で,reverse
-,His performance was _____ by his sister's.,彼の成績は姉の影に隠れてしまった。,overshadowed
-,_____ the problem,その問題を悪化させる,worsen
-,_____ the country's economic future,その国の経済の将来を危険にさらす,jeopardize
-441,_____ my salary by working part-time,アルバイトをして給料を補う,supplement
-,take a vitamin _____,ビタミンの栄養補助食品をとる,supplement
-,a magazine _____,雑誌の付録,supplement
-,Pollution _____ a threat to fish.,汚染が魚に脅威をもたらす。,poses
-,_____ childbirth,分娩を誘発する,induce
-,_____ him to give up smoking,彼を説得して喫煙を止めさせる,induce
-,_____ her close friend,彼女の親友を裏切る,betray
-,Her voice _____ her nervousness.,彼女は声で緊張していることがばれた。,betrayed
-,Don't _____ small children.,幼い子どもたちをいじめるな。,bully
-,He was a _____ in high school.,彼は高校時代、いじめっ子だった。,bully
-,_____ his advice,彼の忠告を無視する,disregard
-,_____ juice from an orange,オレンジからジュースを搾る,squeeze
-,_____ people into a train,列車内に人々を押し込む,squeeze
-,The dog _____ his head against my leg.,イヌが私の脚に頭をこすりつけた。,rubbed
-,The cat _____ against my leg.,ネコが私の脚に体をこすりつけてきた。,rubbed
-,_____ the showcases,ショーケースを粉砕する,smash
-,_____ a ticket into an automatic ticket gate,自動改札機に切符を入れる,insert
-,_____ my comments in the space,空欄にコメントを書き込む,insert
-443,____ the hood ____ a jacket,上着からフードを取り外す,detach from
-,_____ a product from the market,市場から製品を回収する,withdraw
-,_____ $300 from an ATM,ATMから300ドルを引き出す,withdraw
-,_____ from the war zone,戦闘地帯から撤退する,withdraw
-,_____ data for a report,報告書のためにデータをまとめる,compile
-,_____ through the photographs,写真にざっと目を通す,browse
-,_____ the internet,インターネットを閲覧する,browse
-,_____ public opinion,世論を操作する,manipulate
-,_____ political reform,政治改革を実行する,implement
-,farming _____,農機具,implements
-,_____ the plan from Monday,月曜日からその計画を実行する,execute
-,_____ the murderer,その殺人犯を処刑する,execute
-,_____ the Olympic Games,オリンピックを主催する,host
-,a _____ of difficulties,多くの困難,host
-,Our _____ greeted us at the door.,主催者が玄関で私たちに挨拶した,host
-,_____ a new television on the wall,新しいテレビを壁に取り付ける,mount
-,_____ a horse,馬に乗る,mount
-,Tension is _____ in the Middle East.,中東で緊張が高まっている,mounting
-,_____ black smoke,黒い煙を出す,discharge
-,be _____ from the navy,海軍から除隊になる（海軍から解放される）,discharged
-,_____ the bathtub,風呂の水を抜く,drain
-,_____ the cooked spaghetti,ゆでたスパゲッティの水分を切る,drain
-,This playground does not _____ well.,この運動場は水はけがよくない,drain
-445,get _____ in the rain,雨でびしょ濡れになる,soaked
-,_____ up new ideas,新しい考えを吸収する,soak
-,_____ sashimi in soy sauce,刺身をしょうゆにつける,dip
-,a lamp _____ from the ceiling,天井から吊るされているランプ,suspended
-,_____ the ferry service,フェリーの運行を中断する,suspend
-,be _____ from school,停学になる,suspended
-,_____ oil from olives,オリーブの実から油を抽出する,extract
-,_____ from the novel,その小説の抜粋,extracts
-,_____ him in the face,彼の顔を平手打ちする,slap
-,_____ his daughter,彼の娘を抱擁する,embrace
-,_____ many different values,多くのさまざまな価値観を受け入れる,embrace
-,_____ on a huge project,巨大なプロジェクトに着手する,embark
-,_____ in disputes between husbands and wives,夫婦間の争いに介入する,intervene
-,_____ new markets,新たな市場に入り込む,penetrate
-,The bullet _____ his leg.,弾丸が彼の足を貫通した,penetrated
-,_____ deep into the ground,地中深くに入り込む,penetrate
-,Don't _____ on her privacy.,彼女のプライバシーに立ち入るな,intrude
-,Solar energy can be _____ for various purposes.,太陽エネルギーはさまざまな目的で利用できる(利用され得る)。,utilized
-447,become deeply _____ in the organization,その組織の中に深く埋め込まれる,embedded
-,_____ him a suite,彼にスイートルームを割り当てる,allocate
-,_____ volunteers,ボランティアを統率する（活動をうまく調整する）,coordinate
-,gaze at a screen without _____,まばたきせず画面に見入る,blinking
-,My head is _____ with a fever.,熱で頭がくらくらする,spinning
-,_____ a top,こまを回す,spin
-,_____ cotton into threads,綿を紡いで糸にする,spin
-,The earth _____ on its axis.,地球は地軸を中心に自転する,rotates
-,_____ crops,作物を輪作する（回転させる）,rotate
-,_____ into a car,急いで車に乗り込む,scramble
-,The magician _____ without trace.,そのマジシャンは跡形もなく消えた,vanished
-,The branch _____ in two.,その枝が2つに折れた,snapped
-,_____ my fingers,指をパチンと鳴らす,snap
-,a _____ old bus,ガタガタ音がする古いバス,rattling
-,_____ some change,チャリンチャリンと小銭を鳴らす,rattle
-,a baby's _____,赤ん坊のガラガラ,rattle
-,East Germany _____ to exist in 1990.,東ドイツは1990年に存在しなくなった。,ceased
-449,____ makes waste.,急いては事を仕損じる(急ぐと損をする)。,Haste
-,The students _____ the facts from the teacher.,生徒たちは先生にその事実を隠した,concealed
-,_____ my sorrow with a smile,笑顔で悲しみを隠す,disguise
-,_____ myself as a pirate,海賊に変装する,disguise
-,a princess in _____,変装している王女,disguise
-,I was _____ into believing that Kathy was a woman.,私はだまされて、キャシーは女性だと信じていた,deceived
-,_____ my duty,義務を怠る,neglect
-,_____ a child,子どもの世話をしない,neglect
-,child abuse and _____,児童の虐待と放置,neglect
-,We were _____ to the roof.,私たちは屋上に避難した,evacuated
-,That day _____ with my birthday.,その日は私の誕生日と重なった,coincided
-,Her views _____ with ours.,彼女と我々の見解は一致していた,coincided
-,Buddhism _____ throughout the country.,その国では仏教が隅々にまで普及している,prevails
-,"I considered lying, but common sense _____.",うそをつこうと思ったが、良識が勝った。,prevailed
-,_____ life on Earth,地球上の生命を支える,sustain
-,A strong smell _____ in the elevator.,エレベーターの中に強烈な臭いが残っていた。,lingered
-,A lot of fans _____ in the hall.,多くのファンがホールに残っていた。,lingered
-451,The economy is beginning to _____ after the slump.,経済は不況以降もち直し始めている,revive
-,_____ the film industry,映画産業をよみがえらせる,revive
-,_____ work,仕事を再開する,resume
-,The meeting has _____.,会議が再開した,resumed
-,Could you show me how to write a _____?,履歴書の書き方を教えていただけませんか,resume
-,a _____ of the day's events,その日の出来事の概要,resume
-,an _____ of smallpox,天然痘の発生,outbreak
-,_____ the elevators regularly,定期的にエレベーターを検査する,inspect
-,an _____ to the North Pole,北極点への遠征,expedition
-,the Antarctic _____,南極観測（探検）隊,expedition
-,_____ in yoga classes,ヨガのクラスに入る,enroll
-,"2,000 students are _____ at this college.","この大学には2,000人の学生が在籍している",enrolled
-,_____ children,子どもをしつける,discipline
-,keep [break] _____,規律を守る [破る],discipline
-,an academic _____,学問分野,discipline
-,pay my _____ by bank transfer,授業料を銀行振込で払う,tuition
-,give _____ in Russian,ロシア語の授業をする,tuition
-,medical _____,医療倫理,ethics
-,the old _____ of hard work,勤勉という古い倫理観,ethic
-,a book on _____,心理学の本,psychology
-,the _____ of five-year-olds,5歳児の心理,psychology
-453,mysteries in _____,天文学における謎,astronomy
-,The _____ dug up an ancient pot.,その考古学者が古代のつぼを掘り出した,archaeologist
-,work on my graduation _____,卒業論文に取り組む,thesis
-,today's main _____,今日の主なテーマ,thesis
-,live in a _____,寮生活をする,dormitory
-,_____ the meaning of life,人生の意味を理解する,grasp
-,_____ his arm firmly,しっかりと彼の腕をつかむ,grasp
-,beyond my _____,私の理解を超える,grasp
-,_____ customers' needs,顧客の要求を予想する,anticipate
-,eagerly _____ his arrival,彼の到着を楽しみに待つ,anticipate
-,No one can _____ the future.,誰にも未来を予知することはできない,foresee
-,_____ the meaning from the context,文脈から意味を推測する,infer
-,What do you _____ from these figures?,これらの数字から何を推測しますか,deduce
-,This area is _____ unsafe.,この地域は治安が悪いと思われている,deemed
-,_____ ways to bring more tourists to the town,より多くの観光客を町に招致する方法を熟考する,ponder
-455,The doctor _____ me that her life was not in danger.,医者は彼女の命に危険はないと私に保証してくれた,assured
-,_____ the method's efficiency,その方法の効率を査定する,assess
-,Jim finally _____ that my proposal might be better.,私の提案のほうがよいかもしれないとジムはとうとう認めた,conceded
-,_____ with him on this,この点で彼と妥協する,compromise
-,_____ my beliefs,私の信念を曲げる,compromise
-,make a _____ about the plan,その計画について妥協する,compromise
-,I could not _____ what had happened.,私は何が起きたのかが理解できなかった,comprehend
-,_____ an ideal with reality,理想と現実との折り合いをつける,reconcile
-,_____ myself to reality,現実を（仕方なく）受け入れる,reconcile
-,_____ good manners in children,子どもたちにマナーを教える,instill
-,We are _____ to any possible danger.,私たちはどんな危険にも対処できるように用心している,alert
-,A tsunami _____ was issued.,津波警報が出された,alert
-,_____ science,認知科学,cognitive
-,rely on my _____,自分の直観に頼る,intuition
-,make a _____ never to smoke again,二度とたばこは吸わないと誓う（誓いをする）,vow
-,_____ eternal love,永遠の愛を誓う,vow
-457,have a terrible _____,ひどい悪夢を見る,nightmare
-,Working in the rain was a _____.,雨の中での作業は悪夢だった,nightmare
-,racial _____,人種的固定観念,stereotypes
-,Jessi is under the _____ that he loves her.,ジェシーは彼が自分のことを愛しているという幻想を抱いている,illusion
-,the _____ for judging wine,ワインを判断する基準,criteria
-,capitalist _____,資本主義のイデオロギー,ideology
-,_____ unfair treatment,不当な扱いに耐える,tolerate
-,_____ some important evidence,ある大切な証拠を見落とす,overlook
-,I'll _____ your mistake this time.,今回は君のミスを見逃そう,overlook
-,My room _____ the Seine.,私の部屋からセーヌ川が見渡せる,overlooks
-,_____ a good idea,よいアイデアを思いつく,conceive
-,Betty _____ a child.,ベティは（子どもを）妊娠した,conceived
-,_____ of a world without war,戦争のない世界を想像する,conceive
-,I am afraid you _____ me.,君は私のことを誤解しているようだね,misunderstand
-,have a _____ eye for talent,才能を見る鋭い目がある,keen
-,I am not _____ on cabbage.,私はキャベツが好きじゃない,keen
-,highly _____ views,非常に主観的な見解,subjective
-459,We have nine years of _____ education in Japan.,日本では義務教育は9年間だ,compulsory
-,a _____ subject,必修科目,compulsory
-,_____ my stress,ストレスを発散させる,relieve
-,He looked _____ when he heard the news.,彼はその知らせを聞いてほっとしているようだった,relieved
-,_____ the fat off the meat,肉から脂身を切り落とす,trim
-,a _____ garden,こぎれいな庭,trim
-,waste _____,廃棄物処理,disposal
-,have a lot of money at my _____,大金が自由に使える,disposal
-,the sweet _____ of perfume,香水の甘い香り,scent
-,The dogs followed the deer's _____.,イヌたちはシカの臭いを追った,scent
-,Japan's consumption of _____,日本の穀物消費量,grain
-,a _____ of sand,一粒の砂,grain
-,_____ is the chief crop in this area.,小麦はこの地域の主な作物です,Wheat
-,campaign against _____ in the Amazon,アマゾンの森林伐採に反対する運動を行う,deforestation
-,The village was hit by a severe _____.,その村は厳しい干ばつに見舞われた,drought
-,water for _____,灌漑用水,irrigation
-461,The sunset was quite a _____.,夕日は実にすばらしい眺めだった,spectacle
-,The opening ceremony was a magnificent _____.,その開会式は壮大な見せ物だった,spectacle
-,"at an _____ of 10,000 meters","高度10,000メートルで",altitude
-,"natural _____ such as earthquakes, floods, and droughts",地震、洪水、干ばつのような自然の大災害,catastrophes
-,Hokkaido's _____,北海道の原野,wilderness
-,develop tooth _____,虫歯（歯の腐敗）になる,decay
-,The queen's authority is _____.,女王の権威は衰えてきている,decaying
-,the _____ of the coastline,その海岸線の浸食,erosion
-,a candle _____,ろうそくの火,flame
-,the Andromeda _____,アンドロメダ銀河,Galaxy
-,I got a _____ from standing outside.,外に立っていたので、冷えた,chill
-,_____ a can of orange juice,オレンジジュースの缶を冷やす,chill
-,_____ energy,熱エネルギー,thermal
-,_____ soil,肥沃な土壌,fertile
-463,_____ fuel,化石燃料,fossil
-,a dinosaur _____,恐竜の化石,fossil
-,_____ natural resources,天然資源を利用する,exploit
-,_____ foreign workers,外国人労働者を搾取する,exploit
-,fish _____ with chemicals,化学物質で汚染された魚,contaminated
-,_____ at regular intervals,周期的に噴火する,erupt
-,The lion _____.,ライオンがほえた,roared
-,the _____ of the traffic,（走る）車の轟音,roar
-,birds that _____ New Zealand,ニュージーランドに生息する鳥,inhabit
-,_____ new industries,新たな産業を育む,nurture
-,_____ is above nature.,氏より育ち（生まれより教育）,Nurture
-,Owls sleep by day and hunt by night.,フクロウは昼に眠って、夜に狩りをする,Owls
-,Birds learn to fly by _____.,鳥は本能的に飛び方を習得する,instinct
-,Zebras sometimes fall _____ to lions.,シマウマはライオンの餌食になることがある,prey
-,Cats _____ on mice.,ネコはネズミを餌食にする,prey
-465,study _____,解剖学を勉強する,anatomy
-,study human _____,人体の構造を研究する,anatomy
-,Whales are classified as _____.,クジラは哺乳類に分類されている,mammals
-,marine _____,海洋捕食動物,predators
-,A mule is a _____ of a horse and a donkey.,ラバは馬とロバの交配種である,hybrid
-,suffer a fractured _____,頭蓋骨を骨折する,skull
-,a _____ dealer,材木商,timber
-,_____ textiles,織物を織る,weave
-,the _____ industry,織物業界,textile
-,sweat-absorbing _____,汗を吸収しやすい布地,fabric
-,the _____ of our society,私たちの社会の構造,fabric
-,"a cotton [paper, steel] _____",紡績 [製紙、製鋼] 工場,mill
-,_____ fabric from wool,羊毛から布地を織る,weave
-,_____ bamboo into a basket,竹を編んでかごを作る,weave
-467,a _____ translator,有能な翻訳者,competent
-,have an _____ view of his future,彼の将来を楽観する,optimistic
-,People feel more _____ when they are abroad.,人は海外に出ると愛国的なるものだ,patriotic
-,his _____ character,彼の高潔な人格,noble
-,one of Scotland's _____ families,スコットランドの貴族の家柄の1つ,noble
-,a daughter of a _____,貴族の娘,noble
-,"Sam is really _____, but at the same time he is so cute.",サムは本当にいたずらだけど、同時にかわいいんだ,naughty
-,Society's elite tend to be _____.,（社会の）エリートは傲慢になりがちだ,arrogant
-,a _____ supporter,精力的な支持者,vigorous
-,get _____ exercise,激しい（活発な）運動をする,vigorous
-,a _____ character,控えめな性格の人,humble
-,children of _____ backgrounds,貧しい家の子どもたち,humble
-,become _____ to vote,選挙で投票する資格を持つ,eligible
-,common _____,当たり前の礼儀,courtesy
-469,a remarkably _____ man,驚くほど立ち直りが早い男,resilient
-,People are _____ to judge someone by their appearance.,① 人は人を外見で判断する傾向にある,inclined
-,feel _____ to believe him,② 彼を信じてみようと思う,inclined
-,I am still _____ by regret.,① まだ後悔している（後悔につきまとわれている）,haunted
-,The cafe is my favorite _____.,② そのカフェは私が好んで行く場所だ,haunt
-,I was _____ on my work.,① 仕事に没頭していた,intent
-,It was not my _____ to hurt you.,② あなたを傷つけるつもりはなかった,intent
-,_____ in drinking,① 飲酒にふける,indulge
-,someone who _____ me,② 私のわがままを聞いてくれる人（私を思いのままにさせる人）,indulges
-,a _____ in the jewel,その宝石の傷,flaw
-,a _____ in that product,その製品の欠陥,defect
-,Skin color is a genetic _____.,皮膚の色は遺伝特性だ,trait
-,draw an _____ between the brain and a computer,脳をコンピュータに例える（脳とコンピュータの類似点を示す）,analogy
-,have no _____ in the 20th century,① 20世紀には類似するものがない,parallel
-,Two _____ lines never meet.,② 平行する2直線は交わらない,parallel
-471,Cars are _____ to a rural lifestyle.,車は田舎の生活に不可欠だ。,indispensable
-,play a _____ role in the negotiations,その交渉で（極めて）重要な役割を果たす,crucial
-,The ship was in _____ danger.,その船は重大な危機に瀕していた。,grave
-,visit our ancestors' _____,先祖のお墓参りに行く,graves
-,My _____ concern is your well-being.,私の今一番の関心は君の幸福だ。,primary
-,_____ care,初期医療（地域の臨床医による診断など）,primary
-,Calcium is _____ for healthy bones.,カルシウムは健康な骨に不可欠だ。,vital
-,an _____ part of our lives,私たちの生活の不可欠な一部,integral
-,the _____ recording of his three interviews,彼の３つのインタビューの完全な録音,integral
-,have a _____ impact on humans,人間に深い影響を与える,profound
-,face a _____ reality,厳しい現実に直面する,grim
-,_____ competition,激しい競争,fierce
-,a _____ guard dog,どう猛な番犬,fierce
-,Alaska's _____ climate,アラスカの厳しい気候,harsh
-473,an _____ problem,深刻な問題,acute
-,an _____ sense of smell,鋭い嗅覚,acute
-,_____ alcohol poisoning,急性アルコール中毒,acute
-,an _____ reply,どっちともとれる曖昧な返事,ambiguous
-,a _____ article,誤解を招く記事,misleading
-,an _____ explanation,わかりにくい説明,obscure
-,an _____ band,無名のバンド,obscure
-,Ann is _____ for her age.,アンは年の割には成熟している。,mature
-,_____ into an adult,大人になる（成熟して大人になる）,mature
-,_____ piles of towels,きちんと積まれたタオル,neat
-,I am paid a _____ salary.,私はまずまずの給料をもらっている。,decent
-,Installing this program is quite _____.,このプログラムのインストールはかなりわかりやすい。,straightforward
-,He is always _____.,彼はいつも率直だ。,straightforward
-,a _____ alarm system,高度な警報システム,sophisticated
-,a _____ restaurant,洗練されたレストラン,sophisticated
-,an _____ meal,手の込んだ食事,elaborate
-,_____ the plan,計画を練り上げる,elaborate
-,_____ on the circumstances,状況を詳しく述べる,elaborate
-475,a _____ reply,即答（迅速な返答）,prompt
-,What _____ you to buy that?,どうしてそんなものを買う気になったのか（何があなたに買うように促したのか）？,prompted
-,a _____ recovery,素早い回復,swift
-,The pen is _____ than the sword.,ペンは剣より強し。,mightier
-,_____ instructions,明確な指示,explicit
-,an _____ painting by Van Gogh,ゴッホの本物の絵画,authentic
-,a man of great _____,機知に富んだ男性,wit
-,The IT industry is _____.,IT業界は好調だ。,thriving
-,Our children are _____.,うちの子どもたちはすくすく育っている。,thriving
-,a _____ light,薄暗い明かり,dim
-,a _____ memory,ぼんやりした記憶,dim
-,_____ the light,照明を暗くする,dim
-,a _____ old room,薄暗く古びた部屋,gloomy
-,a _____ forecast,悲観的な予想,gloomy
-,"a _____, rocky mountain",草木も生えない（不毛な）岩山,barren
-477,sit _____ in the morning,午前中何もせずに座っている,idle
-,_____ workers,怠慢な労働者たち,idle
-,_____ away the afternoon,午後を何もしないで過ごす,idle
-,_____ weather conditions,悪（不都合な）天候,adverse
-,a _____ lecture,退屈な講義,tiresome
-,I am _____ with my hands.,手先が無器用だ。,clumsy
-,a _____ smell,不快な臭い,foul
-,A red card was given for the _____.,その反則に対してレッドカードが出された。,foul
-,a _____ jacket,みすぼらしい上着,shabby
-,his _____ hairstyle,彼の常軌を逸した髪型,outrageous
-,an _____ idea,ばかげた考え,absurd
-,_____ china,壊れやすい陶磁器,fragile
-,Paper is _____ to moisture.,紙は湿気に弱い。,vulnerable
-,People with high blood pressure are _____ to heart disease.,高血圧の人は心臓病にかかりやすい。,vulnerable
-,I got a shock from _____ electricity.,静電気がピリッときた。,static
-479,an _____ ability to make people laugh,人を笑わせる先天的な才能,innate
-,_____ plants,外来植物,exotic
-,a hotel with an _____ atmosphere,異国情緒の漂うホテル,exotic
-,a _____ dog,おとなしい（飼い慣らされた）イヌ,tame
-,It takes a long time to _____ a lion.,ライオンを飼い慣らすには時間がかかる。,tame
-,a _____ error,明白な間違い,manifest
-,_____ dissatisfaction,不満を表す,manifest
-,a _____ fog,濃い霧,dense
-,_____ glass,透明なガラス,transparent
-,His words are not _____ with his behavior.,彼の発言は、行動と一致していない。,consistent
-,run at a _____ pace,安定したペースで走る,consistent
-,give a _____ account of the event,その出来事の一貫した説明をする,coherent
-,"""Time is money"" is a _____ truth.",「時は金なり」は普遍的な真理だ。,universal
-,the _____ cause of the problem,その問題の根底にある原因,underlying
-,a _____ cheer from the crowd,群衆から自然に起こる声援,spontaneous
+1601,The wall _____ in several places.,壁はいくつかの場所でひび割れていた。,cracked
+1601,A shot _____ across the ridge.,1発の銃声が尾根に鳴り響いた。,cracked
+1601,_____ two eggs into the frying pan,2つの卵を割ってフライパンに入れる,crack
+1601,_____ in a cup,カップのひび,cracks
+1602,seasonal _____,季節の移り変わり,transitions
+1603,This new marketing approach will be a _____.,この新しいマーケティング手法は革命をもたらすだろう。,game-changer
+1604,_____ the elbows of a jacket with patches,当て布で上着のひじを補強する,reinforce
+1605,_____ good community relationships,地域のよい関係を育てる,foster
+1605,_____ an orphan,孤児の里親になる,foster
+1605,a _____ parent,里親,foster
+1606,experience a family _____,家庭の崩壊を経験する,breakdown
+1606,a system _____,システム故障,breakdown
+1606,suffer a nervous _____,神経衰弱（ノイローゼ）を患う,breakdown
+1607,_____ under the weight of the snow,雪の重みで倒壊する,collapse
+1607,the _____ of the Berlin Wall,ベルリンの壁の崩壊,collapse
+1608,His remark _____ her speechless.,彼の発言に彼女は言葉を失った。,rendered
+1608,_____ assistance,援助する（援助を与える）,render
+1609,Alcohol _____ your ability to think.,アルコールは思考力を低下させる。,impairs
+1610,_____ Japan's social welfare system,日本の社会福祉制度を揺るがす,undermine
+1611,I am having trouble _____ with the huge amount of work...,やらなければならない膨大な量の仕事に対処するのに苦労している。,coping
+1612,_____ the unemployment problem,失業問題に取り組む,tackle
+1613,_____ the old apartment building,その古いアパートを取り壊す,demolish
+1614,We were _____ to a small room.,私たちは小部屋に閉じ込められた。,confined
+1614,be _____ to a wheelchair after the accident,事故の後、車いす生活を余儀なくされる,confined
+1615,a _____ smoking area,指定された喫煙場所,designated
+1616,_____ air pollution,大気汚染を規制する,regulate
+1616,a hormone that _____ metabolism,新陳代謝を調整するホルモン,regulates
+1617,Please _____ from smoking.,たばこはお控えください。,refrain
+1618,We are _____ from holding second jobs.,私たちは副業を禁止されている。,prohibited
+1619,_____ the hunting of whales,捕鯨を止める,halt
+1619,"""_____!"" said the soldier.",「止まれ！」と兵士は言った。,Halt
+1619,The train came to a _____.,列車が停止した。,halt
+1620,the _____ of prison life,刑務所暮らしの制約,constraints
+1621,Light _____ plant growth.,光に刺激されて植物は育つ（光が植物の成長を刺激する）。,stimulates
+1622,_____ the discussion,議論を活気づける,animate
+1622,an _____ Disney film,ディズニーのアニメ映画（アニメ化された映画）,animated
+1623,_____ economic growth,経済成長を促す,spur
+1623,on the _____ of the moment,その場の勢いで,spur
+1624,_____ him to rest,彼に休むよう強く勧める,urge
+1624,have an _____ to eat some fish,魚が食べたくて仕方ない（魚を食べたい衝動を持つ）,urge
+1625,feel _____ to resign because of the scandal,スキャンダルのため辞職せざるを得ない（辞職を強いられている）と感じる,compelled
+1626,Tears _____ my vision.,涙で視界がぼやけた。,blurred
+1626,My vision has _____.,視界がぼやけた。,blurred
+1627,_____ the course of a stream,川の流れを変える,divert
+1627,_____ his attention,彼の注意をそらす,divert
+1628,_____ the decision,その決定を覆す,reverse
+1628,The _____ is the case.,その逆が正しい。,reverse
+1628,in _____ order,逆の順番で,reverse
+1629,His performance was _____ by his sister's.,彼の成績は姉の影に隠れてしまった。,overshadowed
+1630,_____ the problem,その問題を悪化させる,worsen
+1631,_____ the country's economic future,その国の経済の将来を危険にさらす,jeopardize
+1632,_____ my salary by working part-time,アルバイトをして給料を補う,supplement
+1632,take a vitamin _____,ビタミンの栄養補助食品をとる,supplement
+1632,a magazine _____,雑誌の付録,supplement
+1633,Pollution _____ a threat to fish.,汚染が魚に脅威をもたらす。,poses
+1634,_____ childbirth,分娩を誘発する,induce
+1634,_____ him to give up smoking,彼を説得して喫煙を止めさせる,induce
+1635,_____ her close friend,彼女の親友を裏切る,betray
+1635,Her voice _____ her nervousness.,彼女は声で緊張していることがばれた。,betrayed
+1636,Don't _____ small children.,幼い子どもたちをいじめるな。,bully
+1636,He was a _____ in high school.,彼は高校時代、いじめっ子だった。,bully
+1637,_____ his advice,彼の忠告を無視する,disregard
+1638,_____ juice from an orange,オレンジからジュースを搾る,squeeze
+1638,_____ people into a train,列車内に人々を押し込む,squeeze
+1639,The dog _____ his head against my leg.,イヌが私の脚に頭をこすりつけた。,rubbed
+1639,The cat _____ against my leg.,ネコが私の脚に体をこすりつけてきた。,rubbed
+1640,_____ the showcases,ショーケースを粉砕する,smash
+1641,_____ a ticket into an automatic ticket gate,自動改札機に切符を入れる,insert
+1641,_____ my comments in the space,空欄にコメントを書き込む,insert
+1642,____ the hood ____ a jacket,上着からフードを取り外す,detach from
+1643,_____ a product from the market,市場から製品を回収する,withdraw
+1643,_____ $300 from an ATM,ATMから300ドルを引き出す,withdraw
+1643,_____ from the war zone,戦闘地帯から撤退する,withdraw
+1644,_____ data for a report,報告書のためにデータをまとめる,compile
+1645,_____ through the photographs,写真にざっと目を通す,browse
+1645,_____ the internet,インターネットを閲覧する,browse
+1646,_____ public opinion,世論を操作する,manipulate
+1647,_____ political reform,政治改革を実行する,implement
+1647,farming _____,農機具,implements
+1648,_____ the plan from Monday,月曜日からその計画を実行する,execute
+1648,_____ the murderer,その殺人犯を処刑する,execute
+1649,_____ the Olympic Games,オリンピックを主催する,host
+1649,a _____ of difficulties,多くの困難,host
+1649,Our _____ greeted us at the door.,主催者が玄関で私たちに挨拶した,host
+1650,_____ a new television on the wall,新しいテレビを壁に取り付ける,mount
+1650,_____ a horse,馬に乗る,mount
+1650,Tension is _____ in the Middle East.,中東で緊張が高まっている,mounting
+1651,_____ black smoke,黒い煙を出す,discharge
+1651,be _____ from the navy,海軍から除隊になる（海軍から解放される）,discharged
+1652,_____ the bathtub,風呂の水を抜く,drain
+1652,_____ the cooked spaghetti,ゆでたスパゲッティの水分を切る,drain
+1652,This playground does not _____ well.,この運動場は水はけがよくない,drain
+1653,get _____ in the rain,雨でびしょ濡れになる,soaked
+1653,_____ up new ideas,新しい考えを吸収する,soak
+1654,_____ sashimi in soy sauce,刺身をしょうゆにつける,dip
+1655,a lamp _____ from the ceiling,天井から吊るされているランプ,suspended
+1655,_____ the ferry service,フェリーの運行を中断する,suspend
+1655,be _____ from school,停学になる,suspended
+1656,_____ oil from olives,オリーブの実から油を抽出する,extract
+1656,_____ from the novel,その小説の抜粋,extracts
+1657,_____ him in the face,彼の顔を平手打ちする,slap
+1658,_____ his daughter,彼の娘を抱擁する,embrace
+1658,_____ many different values,多くのさまざまな価値観を受け入れる,embrace
+1659,_____ on a huge project,巨大なプロジェクトに着手する,embark
+1660,_____ in disputes between husbands and wives,夫婦間の争いに介入する,intervene
+1661,_____ new markets,新たな市場に入り込む,penetrate
+1661,The bullet _____ his leg.,弾丸が彼の足を貫通した,penetrated
+1661,_____ deep into the ground,地中深くに入り込む,penetrate
+1662,Don't _____ on her privacy.,彼女のプライバシーに立ち入るな,intrude
+1663,Solar energy can be _____ for various purposes.,太陽エネルギーはさまざまな目的で利用できる(利用され得る)。,utilized
+1664,become deeply _____ in the organization,その組織の中に深く埋め込まれる,embedded
+1665,_____ him a suite,彼にスイートルームを割り当てる,allocate
+1666,_____ volunteers,ボランティアを統率する（活動をうまく調整する）,coordinate
+1667,gaze at a screen without _____,まばたきせず画面に見入る,blinking
+1668,My head is _____ with a fever.,熱で頭がくらくらする,spinning
+1668,_____ a top,こまを回す,spin
+1668,_____ cotton into threads,綿を紡いで糸にする,spin
+1669,The earth _____ on its axis.,地球は地軸を中心に自転する,rotates
+1669,_____ crops,作物を輪作する（回転させる）,rotate
+1670,_____ into a car,急いで車に乗り込む,scramble
+1671,The magician _____ without trace.,そのマジシャンは跡形もなく消えた,vanished
+1672,The branch _____ in two.,その枝が2つに折れた,snapped
+1672,_____ my fingers,指をパチンと鳴らす,snap
+1673,a _____ old bus,ガタガタ音がする古いバス,rattling
+1673,_____ some change,チャリンチャリンと小銭を鳴らす,rattle
+1673,a baby's _____,赤ん坊のガラガラ,rattle
+1674,East Germany _____ to exist in 1990.,東ドイツは1990年に存在しなくなった。,ceased
+1675,____ makes waste.,急いては事を仕損じる(急ぐと損をする)。,Haste
+1676,The students _____ the facts from the teacher.,生徒たちは先生にその事実を隠した,concealed
+1677,_____ my sorrow with a smile,笑顔で悲しみを隠す,disguise
+1677,_____ myself as a pirate,海賊に変装する,disguise
+1677,a princess in _____,変装している王女,disguise
+1678,I was _____ into believing that Kathy was a woman.,私はだまされて、キャシーは女性だと信じていた,deceived
+1679,_____ my duty,義務を怠る,neglect
+1679,_____ a child,子どもの世話をしない,neglect
+1679,child abuse and _____,児童の虐待と放置,neglect
+1680,We were _____ to the roof.,私たちは屋上に避難した,evacuated
+1681,That day _____ with my birthday.,その日は私の誕生日と重なった,coincided
+1681,Her views _____ with ours.,彼女と我々の見解は一致していた,coincided
+1682,Buddhism _____ throughout the country.,その国では仏教が隅々にまで普及している,prevails
+1682,"I considered lying, but common sense _____.",うそをつこうと思ったが、良識が勝った。,prevailed
+1683,_____ life on Earth,地球上の生命を支える,sustain
+1684,A strong smell _____ in the elevator.,エレベーターの中に強烈な臭いが残っていた。,lingered
+1684,A lot of fans _____ in the hall.,多くのファンがホールに残っていた。,lingered
+1685,The economy is beginning to _____ after the slump.,経済は不況以降もち直し始めている,revive
+1685,_____ the film industry,映画産業をよみがえらせる,revive
+1686,_____ work,仕事を再開する,resume
+1686,The meeting has _____.,会議が再開した,resumed
+1686,Could you show me how to write a _____?,履歴書の書き方を教えていただけませんか,resume
+1686,a _____ of the day's events,その日の出来事の概要,resume
+1687,an _____ of smallpox,天然痘の発生,outbreak
+1688,_____ the elevators regularly,定期的にエレベーターを検査する,inspect
+1689,an _____ to the North Pole,北極点への遠征,expedition
+1689,the Antarctic _____,南極観測（探検）隊,expedition
+1690,_____ in yoga classes,ヨガのクラスに入る,enroll
+1690,"2,000 students are _____ at this college.","この大学には2,000人の学生が在籍している",enrolled
+1691,_____ children,子どもをしつける,discipline
+1691,keep [break] _____,規律を守る [破る],discipline
+1691,an academic _____,学問分野,discipline
+1692,pay my _____ by bank transfer,授業料を銀行振込で払う,tuition
+1692,give _____ in Russian,ロシア語の授業をする,tuition
+1693,medical _____,医療倫理,ethics
+1693,the old _____ of hard work,勤勉という古い倫理観,ethic
+1694,a book on _____,心理学の本,psychology
+1694,the _____ of five-year-olds,5歳児の心理,psychology
+1695,mysteries in _____,天文学における謎,astronomy
+1696,The _____ dug up an ancient pot.,その考古学者が古代のつぼを掘り出した,archaeologist
+1697,work on my graduation _____,卒業論文に取り組む,thesis
+1697,today's main _____,今日の主なテーマ,thesis
+1698,live in a _____,寮生活をする,dormitory
+1699,_____ the meaning of life,人生の意味を理解する,grasp
+1699,_____ his arm firmly,しっかりと彼の腕をつかむ,grasp
+1699,beyond my _____,私の理解を超える,grasp
+1700,_____ customers' needs,顧客の要求を予想する,anticipate
+1700,eagerly _____ his arrival,彼の到着を楽しみに待つ,anticipate
+1701,No one can _____ the future.,誰にも未来を予知することはできない,foresee
+1702,_____ the meaning from the context,文脈から意味を推測する,infer
+1703,What do you _____ from these figures?,これらの数字から何を推測しますか,deduce
+1704,This area is _____ unsafe.,この地域は治安が悪いと思われている,deemed
+1705,_____ ways to bring more tourists to the town,より多くの観光客を町に招致する方法を熟考する,ponder
+1706,The doctor _____ me that her life was not in danger.,医者は彼女の命に危険はないと私に保証してくれた,assured
+1707,_____ the method's efficiency,その方法の効率を査定する,assess
+1708,Jim finally _____ that my proposal might be better.,私の提案のほうがよいかもしれないとジムはとうとう認めた,conceded
+1709,_____ with him on this,この点で彼と妥協する,compromise
+1709,_____ my beliefs,私の信念を曲げる,compromise
+1709,make a _____ about the plan,その計画について妥協する,compromise
+1710,I could not _____ what had happened.,私は何が起きたのかが理解できなかった,comprehend
+1711,_____ an ideal with reality,理想と現実との折り合いをつける,reconcile
+1711,_____ myself to reality,現実を（仕方なく）受け入れる,reconcile
+1712,_____ good manners in children,子どもたちにマナーを教える,instill
+1713,We are _____ to any possible danger.,私たちはどんな危険にも対処できるように用心している,alert
+1713,A tsunami _____ was issued.,津波警報が出された,alert
+1714,_____ science,認知科学,cognitive
+1715,rely on my _____,自分の直観に頼る,intuition
+1716,make a _____ never to smoke again,二度とたばこは吸わないと誓う（誓いをする）,vow
+1716,_____ eternal love,永遠の愛を誓う,vow
+1717,have a terrible _____,ひどい悪夢を見る,nightmare
+1717,Working in the rain was a _____.,雨の中での作業は悪夢だった,nightmare
+1718,racial _____,人種的固定観念,stereotypes
+1719,Jessi is under the _____ that he loves her.,ジェシーは彼が自分のことを愛しているという幻想を抱いている,illusion
+1720,the _____ for judging wine,ワインを判断する基準,criteria
+1721,capitalist _____,資本主義のイデオロギー,ideology
+1722,_____ unfair treatment,不当な扱いに耐える,tolerate
+1723,_____ some important evidence,ある大切な証拠を見落とす,overlook
+1723,I'll _____ your mistake this time.,今回は君のミスを見逃そう,overlook
+1723,My room _____ the Seine.,私の部屋からセーヌ川が見渡せる,overlooks
+1724,_____ a good idea,よいアイデアを思いつく,conceive
+1724,Betty _____ a child.,ベティは（子どもを）妊娠した,conceived
+1724,_____ of a world without war,戦争のない世界を想像する,conceive
+1725,I am afraid you _____ me.,君は私のことを誤解しているようだね,misunderstand
+1726,have a _____ eye for talent,才能を見る鋭い目がある,keen
+1726,I am not _____ on cabbage.,私はキャベツが好きじゃない,keen
+1727,highly _____ views,非常に主観的な見解,subjective
+1728,We have nine years of _____ education in Japan.,日本では義務教育は9年間だ,compulsory
+1728,a _____ subject,必修科目,compulsory
+1729,_____ my stress,ストレスを発散させる,relieve
+1729,He looked _____ when he heard the news.,彼はその知らせを聞いてほっとしているようだった,relieved
+1730,_____ the fat off the meat,肉から脂身を切り落とす,trim
+1730,a _____ garden,こぎれいな庭,trim
+1731,waste _____,廃棄物処理,disposal
+1731,have a lot of money at my _____,大金が自由に使える,disposal
+1732,the sweet _____ of perfume,香水の甘い香り,scent
+1732,The dogs followed the deer's _____.,イヌたちはシカの臭いを追った,scent
+1733,Japan's consumption of _____,日本の穀物消費量,grain
+1733,a _____ of sand,一粒の砂,grain
+1734,_____ is the chief crop in this area.,小麦はこの地域の主な作物です,Wheat
+1735,campaign against _____ in the Amazon,アマゾンの森林伐採に反対する運動を行う,deforestation
+1736,The village was hit by a severe _____.,その村は厳しい干ばつに見舞われた,drought
+1737,water for _____,灌漑用水,irrigation
+1738,The sunset was quite a _____.,夕日は実にすばらしい眺めだった,spectacle
+1738,The opening ceremony was a magnificent _____.,その開会式は壮大な見せ物だった,spectacle
+1739,"at an _____ of 10,000 meters","高度10,000メートルで",altitude
+1740,"natural _____ such as earthquakes, floods, and droughts",地震、洪水、干ばつのような自然の大災害,catastrophes
+1741,Hokkaido's _____,北海道の原野,wilderness
+1742,develop tooth _____,虫歯（歯の腐敗）になる,decay
+1742,The queen's authority is _____.,女王の権威は衰えてきている,decaying
+1743,the _____ of the coastline,その海岸線の浸食,erosion
+1744,a candle _____,ろうそくの火,flame
+1745,the Andromeda _____,アンドロメダ銀河,Galaxy
+1746,I got a _____ from standing outside.,外に立っていたので、冷えた,chill
+1746,_____ a can of orange juice,オレンジジュースの缶を冷やす,chill
+1747,_____ energy,熱エネルギー,thermal
+1748,_____ soil,肥沃な土壌,fertile
+1749,_____ fuel,化石燃料,fossil
+1749,a dinosaur _____,恐竜の化石,fossil
+1750,_____ natural resources,天然資源を利用する,exploit
+1750,_____ foreign workers,外国人労働者を搾取する,exploit
+1751,fish _____ with chemicals,化学物質で汚染された魚,contaminated
+1752,_____ at regular intervals,周期的に噴火する,erupt
+1753,The lion _____.,ライオンがほえた,roared
+1753,the _____ of the traffic,（走る）車の轟音,roar
+1754,birds that _____ New Zealand,ニュージーランドに生息する鳥,inhabit
+1755,_____ new industries,新たな産業を育む,nurture
+1755,_____ is above nature.,氏より育ち（生まれより教育）,Nurture
+1756,Owls sleep by day and hunt by night.,フクロウは昼に眠って、夜に狩りをする,Owls
+1757,Birds learn to fly by _____.,鳥は本能的に飛び方を習得する,instinct
+1758,Zebras sometimes fall _____ to lions.,シマウマはライオンの餌食になることがある,prey
+1758,Cats _____ on mice.,ネコはネズミを餌食にする,prey
+1759,study _____,解剖学を勉強する,anatomy
+1759,study human _____,人体の構造を研究する,anatomy
+1760,Whales are classified as _____.,クジラは哺乳類に分類されている,mammals
+1761,marine _____,海洋捕食動物,predators
+1762,A mule is a _____ of a horse and a donkey.,ラバは馬とロバの交配種である,hybrid
+1763,suffer a fractured _____,頭蓋骨を骨折する,skull
+1764,a _____ dealer,材木商,timber
+1765,weave ____,織物を織る,textiles
+1765,the _____ industry,織物業界,textile
+1766,sweat-absorbing _____,汗を吸収しやすい布地,fabric
+1766,the _____ of our society,私たちの社会の構造,fabric
+1767,"a cotton [paper, steel] _____",紡績 [製紙、製鋼] 工場,mill
+1768,_____ fabric from wool,羊毛から布地を織る,weave
+1768,_____ bamboo into a basket,竹を編んでかごを作る,weave
+1769,a _____ translator,有能な翻訳者,competent
+1770,have an _____ view of his future,彼の将来を楽観する,optimistic
+1771,People feel more _____ when they are abroad.,人は海外に出ると愛国的になるものだ,patriotic
+1772,his _____ character,彼の高潔な人格,noble
+1772,one of Scotland's _____ families,スコットランドの貴族の家柄の1つ,noble
+1772,a daughter of a _____,貴族の娘,noble
+1773,"Sam is really _____, but at the same time he is so cute.",サムは本当にいたずらだけど、同時にかわいいんだ,naughty
+1774,Society's elite tend to be _____.,（社会の）エリートは傲慢になりがちだ,arrogant
+1775,a _____ supporter,精力的な支持者,vigorous
+1775,get _____ exercise,激しい（活発な）運動をする,vigorous
+1776,a _____ character,控えめな性格の人,humble
+1776,children of _____ backgrounds,貧しい家の子どもたち,humble
+1777,become _____ to vote,選挙で投票する資格を持つ,eligible
+1778,common _____,当たり前の礼儀,courtesy
+1779,a remarkably _____ man,驚くほど立ち直りが早い男,resilient
+1780,People are _____ to judge someone by their appearance.,① 人は人を外見で判断する傾向にある,inclined
+1780,feel _____ to believe him,② 彼を信じてみようと思う,inclined
+1781,I am still _____ by regret.,① まだ後悔している（後悔につきまとわれている）,haunted
+1781,The cafe is my favorite _____.,② そのカフェは私が好んで行く場所だ,haunt
+1782,I was _____ on my work.,① 仕事に没頭していた,intent
+1782,It was not my _____ to hurt you.,② あなたを傷つけるつもりはなかった,intent
+1783,_____ in drinking,① 飲酒にふける,indulge
+1783,someone who _____ me,② 私のわがままを聞いてくれる人（私を思いのままにさせる人）,indulges
+1784,a _____ in the jewel,その宝石の傷,flaw
+1785,a _____ in that product,その製品の欠陥,defect
+1786,Skin color is a genetic _____.,皮膚の色は遺伝特性だ,trait
+1787,draw an _____ between the brain and a computer,脳をコンピュータに例える（脳とコンピュータの類似点を示す）,analogy
+1788,have no _____ in the 20th century,① 20世紀には類似するものがない,parallel
+1788,Two _____ lines never meet.,② 平行する2直線は交わらない,parallel
+1789,Cars are _____ to a rural lifestyle.,車は田舎の生活に不可欠だ。,indispensable
+1790,play a _____ role in the negotiations,その交渉で（極めて）重要な役割を果たす,crucial
+1791,The ship was in _____ danger.,その船は重大な危機に瀕していた。,grave
+1791,visit our ancestors' _____,先祖のお墓参りに行く,graves
+1792,My _____ concern is your well-being.,私の今一番の関心は君の幸福だ。,primary
+1792,_____ care,初期医療（地域の臨床医による診断など）,primary
+1793,Calcium is _____ for healthy bones.,カルシウムは健康な骨に不可欠だ。,vital
+1794,an _____ part of our lives,私たちの生活の不可欠な一部,integral
+1794,the _____ recording of his three interviews,彼の３つのインタビューの完全な録音,integral
+1795,have a _____ impact on humans,人間に深い影響を与える,profound
+1796,face a _____ reality,厳しい現実に直面する,grim
+1797,_____ competition,激しい競争,fierce
+1797,a _____ guard dog,どう猛な番犬,fierce
+1798,Alaska's _____ climate,アラスカの厳しい気候,harsh
+1799,an _____ problem,深刻な問題,acute
+1799,an _____ sense of smell,鋭い嗅覚,acute
+1799,_____ alcohol poisoning,急性アルコール中毒,acute
+1800,an _____ reply,どっちともとれる曖昧な返事,ambiguous
+1801,a _____ article,誤解を招く記事,misleading
+1802,an _____ explanation,わかりにくい説明,obscure
+1802,an _____ band,無名のバンド,obscure
+1803,Ann is _____ for her age.,アンは年の割には成熟している。,mature
+1803,_____ into an adult,大人になる（成熟して大人になる）,mature
+1804,_____ piles of towels,きちんと積まれたタオル,neat
+1805,I am paid a _____ salary.,私はまずまずの給料をもらっている。,decent
+1806,Installing this program is quite _____.,このプログラムのインストールはかなりわかりやすい。,straightforward
+1806,He is always _____.,彼はいつも率直だ。,straightforward
+1807,a _____ alarm system,高度な警報システム,sophisticated
+1807,a _____ restaurant,洗練されたレストラン,sophisticated
+1808,an _____ meal,手の込んだ食事,elaborate
+1808,_____ the plan,計画を練り上げる,elaborate
+1808,_____ on the circumstances,状況を詳しく述べる,elaborate
+1809,a _____ reply,即答（迅速な返答）,prompt
+1809,What _____ you to buy that?,どうしてそんなものを買う気になったのか（何があなたに買うように促したのか）？,prompted
+1810,a _____ recovery,素早い回復,swift
+1811,The pen is _____ than the sword.,ペンは剣より強し。,mightier
+1812,_____ instructions,明確な指示,explicit
+1813,an _____ painting by Van Gogh,ゴッホの本物の絵画,authentic
+1814,a man of great _____,機知に富んだ男性,wit
+1815,The IT industry is _____.,IT業界は好調だ。,thriving
+1815,Our children are _____.,うちの子どもたちはすくすく育っている。,thriving
+1816,a _____ light,薄暗い明かり,dim
+1816,a _____ memory,ぼんやりした記憶,dim
+1816,_____ the light,照明を暗くする,dim
+1817,a _____ old room,薄暗く古びた部屋,gloomy
+1817,a _____ forecast,悲観的な予想,gloomy
+1818,"a _____, rocky mountain",草木も生えない（不毛な）岩山,barren
+1819,sit _____ in the morning,午前中何もせずに座っている,idle
+1819,_____ workers,怠慢な労働者たち,idle
+1819,_____ away the afternoon,午後を何もしないで過ごす,idle
+1820,_____ weather conditions,悪（不都合な）天候,adverse
+1821,a _____ lecture,退屈な講義,tiresome
+1822,I am _____ with my hands.,手先が無器用だ。,clumsy
+1823,a _____ smell,不快な臭い,foul
+1823,A red card was given for the _____.,その反則に対してレッドカードが出された。,foul
+1824,a _____ jacket,みすぼらしい上着,shabby
+1825,his _____ hairstyle,彼の常軌を逸した髪型,outrageous
+1826,an _____ idea,ばかげた考え,absurd
+1827,_____ china,壊れやすい陶磁器,fragile
+1828,Paper is _____ to moisture.,紙は湿気に弱い。,vulnerable
+1828,People with high blood pressure are _____ to heart disease.,高血圧の人は心臓病にかかりやすい。,vulnerable
+1829,I got a shock from _____ electricity.,静電気がピリッときた。,static
+1830,an _____ ability to make people laugh,人を笑わせる先天的な才能,innate
+1831,_____ plants,外来植物,exotic
+1831,a hotel with an _____ atmosphere,異国情緒の漂うホテル,exotic
+1832,a _____ dog,おとなしい（飼い慣らされた）イヌ,tame
+1832,It takes a long time to _____ a lion.,ライオンを飼い慣らすには時間がかかる。,tame
+1833,a _____ error,明白な間違い,manifest
+1833,_____ dissatisfaction,不満を表す,manifest
+1834,a _____ fog,濃い霧,dense
+1835,_____ glass,透明なガラス,transparent
+1836,His words are not _____ with his behavior.,彼の発言は、行動と一致していない。,consistent
+1836,run at a _____ pace,安定したペースで走る,consistent
+1837,give a _____ account of the event,その出来事の一貫した説明をする,coherent
+1838,"""Time is money"" is a _____ truth.",「時は金なり」は普遍的な真理だ。,universal
+1839,the _____ cause of the problem,その問題の根底にある原因,underlying
+1840,a _____ cheer from the crowd,群衆から自然に起こる声援,spontaneous
